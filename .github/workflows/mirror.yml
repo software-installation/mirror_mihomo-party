@@ -1,5 +1,5 @@
 # .github/workflows/mirror.yml
-name: 
+name: 同步mihomo-party-org/mihomo-party
 
 on:
   schedule:
