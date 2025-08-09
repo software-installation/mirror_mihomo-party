@@ -2,383 +2,383 @@
   "releases": {
     "169959577": {
       "tag_name": "v0.5.0",
-      "fully_synced_at": "2025-08-09 13:37:23.114133"
+      "fully_synced_at": "2025-08-09 18:53:39.376836"
     },
     "170106970": {
       "tag_name": "v0.5.1",
-      "fully_synced_at": "2025-08-09 13:37:27.758000"
+      "fully_synced_at": "2025-08-09 18:53:43.417307"
     },
     "170123657": {
       "tag_name": "v0.5.2",
-      "fully_synced_at": "2025-08-09 13:37:31.916081"
+      "fully_synced_at": "2025-08-09 18:53:47.858358"
     },
     "170196703": {
       "tag_name": "v0.5.3",
-      "fully_synced_at": "2025-08-09 13:37:36.270121"
+      "fully_synced_at": "2025-08-09 18:53:52.450122"
     },
     "170306762": {
       "tag_name": "v0.5.4",
-      "fully_synced_at": "2025-08-09 13:37:40.608160"
+      "fully_synced_at": "2025-08-09 18:53:56.292209"
     },
     "170370734": {
       "tag_name": "v0.5.5",
-      "fully_synced_at": "2025-08-09 13:37:44.791049"
+      "fully_synced_at": "2025-08-09 18:54:00.352748"
     },
     "170500149": {
       "tag_name": "v0.5.6",
-      "fully_synced_at": "2025-08-09 13:37:48.690497"
+      "fully_synced_at": "2025-08-09 18:54:04.251448"
     },
     "170532587": {
       "tag_name": "v0.5.7",
-      "fully_synced_at": "2025-08-09 13:37:53.155485"
+      "fully_synced_at": "2025-08-09 18:54:08.302788"
     },
     "170708082": {
       "tag_name": "v0.5.8",
-      "fully_synced_at": "2025-08-09 13:37:57.309261"
+      "fully_synced_at": "2025-08-09 18:54:11.910077"
     },
     "170720024": {
       "tag_name": "v0.6.0",
-      "fully_synced_at": "2025-08-09 13:38:01.244156"
+      "fully_synced_at": "2025-08-09 18:54:15.208796"
     },
     "170748937": {
       "tag_name": "v0.6.1",
-      "fully_synced_at": "2025-08-09 13:38:06.096283"
+      "fully_synced_at": "2025-08-09 18:54:19.043007"
     },
     "170755416": {
       "tag_name": "v0.6.2",
-      "fully_synced_at": "2025-08-09 13:38:09.663275"
+      "fully_synced_at": "2025-08-09 18:54:22.643408"
     },
     "170792839": {
       "tag_name": "v0.6.3",
-      "fully_synced_at": "2025-08-09 13:38:13.920235"
+      "fully_synced_at": "2025-08-09 18:54:26.017702"
     },
     "170867122": {
       "tag_name": "v1.0.0",
-      "fully_synced_at": "2025-08-09 13:38:18.112242"
+      "fully_synced_at": "2025-08-09 18:54:29.862632"
     },
     "171107797": {
       "tag_name": "v1.0.1",
-      "fully_synced_at": "2025-08-09 13:38:22.287107"
+      "fully_synced_at": "2025-08-09 18:54:33.885341"
     },
     "171179512": {
       "tag_name": "v1.0.2",
-      "fully_synced_at": "2025-08-09 13:38:26.202508"
+      "fully_synced_at": "2025-08-09 18:54:37.696264"
     },
     "171418634": {
       "tag_name": "v1.0.3",
-      "fully_synced_at": "2025-08-09 13:38:29.936954"
+      "fully_synced_at": "2025-08-09 18:54:41.428429"
     },
     "171780612": {
       "tag_name": "v1.0.4",
-      "fully_synced_at": "2025-08-09 13:38:34.766731"
+      "fully_synced_at": "2025-08-09 18:54:44.711116"
     },
     "171830243": {
       "tag_name": "v1.0.5",
-      "fully_synced_at": "2025-08-09 13:38:39.077704"
+      "fully_synced_at": "2025-08-09 18:54:48.329384"
     },
     "171875823": {
       "tag_name": "v1.0.6",
-      "fully_synced_at": "2025-08-09 13:38:43.255370"
+      "fully_synced_at": "2025-08-09 18:54:52.197291"
     },
     "171881978": {
       "tag_name": "v1.0.7",
-      "fully_synced_at": "2025-08-09 13:38:47.036062"
+      "fully_synced_at": "2025-08-09 18:54:55.902040"
     },
     "171926219": {
       "tag_name": "v1.0.8",
-      "fully_synced_at": "2025-08-09 13:38:50.785582"
+      "fully_synced_at": "2025-08-09 18:54:59.825356"
     },
     "172130785": {
       "tag_name": "v1.0.9",
-      "fully_synced_at": "2025-08-09 13:38:54.769197"
+      "fully_synced_at": "2025-08-09 18:55:03.915108"
     },
     "172392117": {
       "tag_name": "v1.1.0",
-      "fully_synced_at": "2025-08-09 13:38:58.491976"
+      "fully_synced_at": "2025-08-09 18:55:07.579284"
     },
     "172479849": {
       "tag_name": "v1.1.1",
-      "fully_synced_at": "2025-08-09 13:39:02.583293"
+      "fully_synced_at": "2025-08-09 18:55:11.576142"
     },
     "172523673": {
       "tag_name": "v1.1.2",
-      "fully_synced_at": "2025-08-09 13:39:06.261645"
+      "fully_synced_at": "2025-08-09 18:55:15.178381"
     },
     "172729497": {
       "tag_name": "v1.2.0",
-      "fully_synced_at": "2025-08-09 13:39:10.517277"
+      "fully_synced_at": "2025-08-09 18:55:18.909192"
     },
     "172895783": {
       "tag_name": "v1.2.1",
-      "fully_synced_at": "2025-08-09 13:39:15.033583"
+      "fully_synced_at": "2025-08-09 18:55:22.563932"
     },
     "172942808": {
       "tag_name": "v1.2.2",
-      "fully_synced_at": "2025-08-09 13:39:21.070483"
+      "fully_synced_at": "2025-08-09 18:55:26.248357"
     },
     "172969743": {
       "tag_name": "v1.2.3",
-      "fully_synced_at": "2025-08-09 13:39:25.460249"
+      "fully_synced_at": "2025-08-09 18:55:29.697493"
     },
     "173034361": {
       "tag_name": "v1.2.4",
-      "fully_synced_at": "2025-08-09 13:39:29.527907"
+      "fully_synced_at": "2025-08-09 18:55:33.492964"
     },
     "173151281": {
       "tag_name": "v1.2.5",
-      "fully_synced_at": "2025-08-09 13:39:33.284562"
+      "fully_synced_at": "2025-08-09 18:55:37.352679"
     },
     "173257562": {
       "tag_name": "v1.2.6",
-      "fully_synced_at": "2025-08-09 13:39:37.276913"
+      "fully_synced_at": "2025-08-09 18:55:41.060619"
     },
     "173408349": {
       "tag_name": "v1.2.7",
-      "fully_synced_at": "2025-08-09 13:39:40.915332"
+      "fully_synced_at": "2025-08-09 18:55:44.729739"
     },
     "173552223": {
       "tag_name": "v1.2.8",
-      "fully_synced_at": "2025-08-09 13:39:43.869037"
+      "fully_synced_at": "2025-08-09 18:55:48.667377"
     },
     "173564659": {
       "tag_name": "v1.2.9",
-      "fully_synced_at": "2025-08-09 13:39:47.147024"
+      "fully_synced_at": "2025-08-09 18:55:51.391331"
     },
     "173566122": {
       "tag_name": "v1.2.10",
-      "fully_synced_at": "2025-08-09 13:39:50.486411"
+      "fully_synced_at": "2025-08-09 18:55:53.944398"
     },
     "173834657": {
       "tag_name": "v1.2.11",
-      "fully_synced_at": "2025-08-09 13:39:53.590439"
+      "fully_synced_at": "2025-08-09 18:55:56.729451"
     },
     "173998872": {
       "tag_name": "v1.2.12",
-      "fully_synced_at": "2025-08-09 13:39:56.957398"
+      "fully_synced_at": "2025-08-09 18:55:59.365793"
     },
     "178886346": {
       "tag_name": "v1.4.4",
-      "fully_synced_at": "2025-08-09 13:40:01.339410"
+      "fully_synced_at": "2025-08-09 18:56:03.340910"
     },
     "174050204": {
       "tag_name": "v1.2.13",
-      "fully_synced_at": "2025-08-09 13:40:04.541466"
+      "fully_synced_at": "2025-08-09 18:56:06.228497"
     },
     "174461665": {
       "tag_name": "v1.2.14",
-      "fully_synced_at": "2025-08-09 13:40:07.725748"
+      "fully_synced_at": "2025-08-09 18:56:09.349647"
     },
     "174510912": {
       "tag_name": "v1.2.15",
-      "fully_synced_at": "2025-08-09 13:40:10.522157"
+      "fully_synced_at": "2025-08-09 18:56:12.368239"
     },
     "174676553": {
       "tag_name": "v1.2.16",
-      "fully_synced_at": "2025-08-09 13:40:13.824119"
+      "fully_synced_at": "2025-08-09 18:56:15.203728"
     },
     "174952731": {
       "tag_name": "v1.2.17",
-      "fully_synced_at": "2025-08-09 13:40:16.611669"
+      "fully_synced_at": "2025-08-09 18:56:17.862036"
     },
     "175066502": {
       "tag_name": "v1.2.18",
-      "fully_synced_at": "2025-08-09 13:40:20.814341"
+      "fully_synced_at": "2025-08-09 18:56:21.959668"
     },
     "175118826": {
       "tag_name": "v1.2.19",
-      "fully_synced_at": "2025-08-09 13:40:25.216357"
+      "fully_synced_at": "2025-08-09 18:56:26.128739"
     },
     "175165402": {
       "tag_name": "v1.2.20",
-      "fully_synced_at": "2025-08-09 13:40:29.478521"
+      "fully_synced_at": "2025-08-09 18:56:30.052427"
     },
     "175690956": {
       "tag_name": "v1.2.21",
-      "fully_synced_at": "2025-08-09 13:40:33.804600"
+      "fully_synced_at": "2025-08-09 18:56:34.119492"
     },
     "176045261": {
       "tag_name": "v1.2.22",
-      "fully_synced_at": "2025-08-09 13:40:37.994215"
+      "fully_synced_at": "2025-08-09 18:56:37.823776"
     },
     "176073687": {
       "tag_name": "v1.2.23",
-      "fully_synced_at": "2025-08-09 13:40:42.346807"
+      "fully_synced_at": "2025-08-09 18:56:41.731663"
     },
     "176217095": {
       "tag_name": "v1.2.24",
-      "fully_synced_at": "2025-08-09 13:40:46.444730"
+      "fully_synced_at": "2025-08-09 18:56:45.827826"
     },
     "176239100": {
       "tag_name": "v1.3.0",
-      "fully_synced_at": "2025-08-09 13:40:50.583255"
+      "fully_synced_at": "2025-08-09 18:56:49.596903"
     },
     "176278049": {
       "tag_name": "v1.3.1",
-      "fully_synced_at": "2025-08-09 13:40:55.693380"
+      "fully_synced_at": "2025-08-09 18:56:53.869680"
     },
     "176422790": {
       "tag_name": "v1.3.2",
-      "fully_synced_at": "2025-08-09 13:40:59.863949"
+      "fully_synced_at": "2025-08-09 18:56:57.707130"
     },
     "176765124": {
       "tag_name": "v1.3.3",
-      "fully_synced_at": "2025-08-09 13:41:04.138475"
+      "fully_synced_at": "2025-08-09 18:57:01.477844"
     },
     "176839447": {
       "tag_name": "v1.3.4",
-      "fully_synced_at": "2025-08-09 13:41:09.032066"
+      "fully_synced_at": "2025-08-09 18:57:05.404774"
     },
     "177463247": {
       "tag_name": "v1.3.5",
-      "fully_synced_at": "2025-08-09 13:41:13.427724"
+      "fully_synced_at": "2025-08-09 18:57:09.228729"
     },
     "177468830": {
       "tag_name": "v1.3.6",
-      "fully_synced_at": "2025-08-09 13:41:19.001699"
+      "fully_synced_at": "2025-08-09 18:57:13.590810"
     },
     "177502838": {
       "tag_name": "v1.3.7",
-      "fully_synced_at": "2025-08-09 13:41:23.348139"
+      "fully_synced_at": "2025-08-09 18:57:17.270873"
     },
     "177516890": {
       "tag_name": "v1.4.0",
-      "fully_synced_at": "2025-08-09 13:41:29.378164"
+      "fully_synced_at": "2025-08-09 18:57:21.530492"
     },
     "177952365": {
       "tag_name": "v1.4.1",
-      "fully_synced_at": "2025-08-09 13:41:33.409602"
+      "fully_synced_at": "2025-08-09 18:57:25.695396"
     },
     "178521971": {
       "tag_name": "v1.4.2",
-      "fully_synced_at": "2025-08-09 13:41:37.306942"
+      "fully_synced_at": "2025-08-09 18:57:29.597096"
     },
     "178591762": {
       "tag_name": "v1.4.3",
-      "fully_synced_at": "2025-08-09 13:41:41.850089"
+      "fully_synced_at": "2025-08-09 18:57:33.288405"
     },
     "179464458": {
       "tag_name": "v1.4.5",
-      "fully_synced_at": "2025-08-09 13:41:45.141653"
+      "fully_synced_at": "2025-08-09 18:57:37.544878"
     },
     "179644579": {
       "tag_name": "v1.4.7",
-      "fully_synced_at": "2025-08-09 13:41:48.290244"
+      "fully_synced_at": "2025-08-09 18:57:40.481244"
     },
     "179939484": {
       "tag_name": "v1.4.8",
-      "fully_synced_at": "2025-08-09 13:41:51.687849"
+      "fully_synced_at": "2025-08-09 18:57:43.578128"
     },
     "180141717": {
       "tag_name": "v1.4.9",
-      "fully_synced_at": "2025-08-09 13:41:55.272309"
+      "fully_synced_at": "2025-08-09 18:57:46.705108"
     },
     "180189813": {
       "tag_name": "v1.5.0",
-      "fully_synced_at": "2025-08-09 13:41:58.539699"
+      "fully_synced_at": "2025-08-09 18:57:49.428352"
     },
     "180255212": {
       "tag_name": "v1.5.1",
-      "fully_synced_at": "2025-08-09 13:42:01.740197"
+      "fully_synced_at": "2025-08-09 18:57:52.405987"
     },
     "180790072": {
       "tag_name": "v1.5.2",
-      "fully_synced_at": "2025-08-09 13:42:04.821790"
+      "fully_synced_at": "2025-08-09 18:57:55.222628"
     },
     "181039382": {
       "tag_name": "v1.5.3",
-      "fully_synced_at": "2025-08-09 13:42:08.175478"
+      "fully_synced_at": "2025-08-09 18:57:57.998629"
     },
     "181619750": {
       "tag_name": "v1.5.5",
-      "fully_synced_at": "2025-08-09 13:42:11.613609"
+      "fully_synced_at": "2025-08-09 18:58:00.845278"
     },
     "182680102": {
       "tag_name": "v1.5.6",
-      "fully_synced_at": "2025-08-09 13:42:15.056829"
+      "fully_synced_at": "2025-08-09 18:58:03.571291"
     },
     "184601650": {
       "tag_name": "v1.5.7",
-      "fully_synced_at": "2025-08-09 13:42:18.243385"
+      "fully_synced_at": "2025-08-09 18:58:06.513462"
     },
     "185421596": {
       "tag_name": "v1.5.8",
-      "fully_synced_at": "2025-08-09 13:42:21.479918"
+      "fully_synced_at": "2025-08-09 18:58:09.669635"
     },
     "185437001": {
       "tag_name": "v1.5.9",
-      "fully_synced_at": "2025-08-09 13:42:24.894720"
+      "fully_synced_at": "2025-08-09 18:58:12.795641"
     },
     "185442168": {
       "tag_name": "v1.5.10",
-      "fully_synced_at": "2025-08-09 13:42:27.967617"
+      "fully_synced_at": "2025-08-09 18:58:16.078426"
     },
     "186115524": {
       "tag_name": "v1.5.11",
-      "fully_synced_at": "2025-08-09 13:42:31.318449"
+      "fully_synced_at": "2025-08-09 18:58:19.057454"
     },
     "187149556": {
       "tag_name": "v1.5.12",
-      "fully_synced_at": "2025-08-09 13:42:34.232797"
+      "fully_synced_at": "2025-08-09 18:58:22.002001"
     },
     "194246408": {
       "tag_name": "v1.5.13",
-      "fully_synced_at": "2025-08-09 13:42:37.352892"
+      "fully_synced_at": "2025-08-09 18:58:25.242877"
     },
     "194330973": {
       "tag_name": "v1.6.0",
-      "fully_synced_at": "2025-08-09 13:42:40.620799"
+      "fully_synced_at": "2025-08-09 18:58:28.272690"
     },
     "199137163": {
       "tag_name": "v1.7.0",
-      "fully_synced_at": "2025-08-09 13:42:43.603195"
+      "fully_synced_at": "2025-08-09 18:58:31.117247"
     },
     "199179708": {
       "tag_name": "v1.7.1",
-      "fully_synced_at": "2025-08-09 13:42:46.795238"
+      "fully_synced_at": "2025-08-09 18:58:33.976389"
     },
     "203270015": {
       "tag_name": "v1.7.2",
-      "fully_synced_at": "2025-08-09 13:42:49.871643"
+      "fully_synced_at": "2025-08-09 18:58:36.771791"
     },
     "214939935": {
       "tag_name": "v1.7.3",
-      "fully_synced_at": "2025-08-09 13:42:53.141882"
+      "fully_synced_at": "2025-08-09 18:58:39.769770"
     },
     "223263860": {
       "tag_name": "v1.7.4",
-      "fully_synced_at": "2025-08-09 13:42:56.473649"
+      "fully_synced_at": "2025-08-09 18:58:42.720417"
     },
     "223832064": {
       "tag_name": "v1.7.5",
-      "fully_synced_at": "2025-08-09 13:43:00.046794"
+      "fully_synced_at": "2025-08-09 18:58:45.678111"
     },
     "225887064": {
       "tag_name": "v1.7.6",
-      "fully_synced_at": "2025-08-09 13:43:03.280081"
+      "fully_synced_at": "2025-08-09 18:58:48.649171"
     },
     "236602643": {
       "tag_name": "v1.7.7",
-      "fully_synced_at": "2025-08-09 13:43:09.902601"
+      "fully_synced_at": "2025-08-09 18:58:54.597794"
     },
     "237067522": {
       "tag_name": "v1.8.0",
-      "fully_synced_at": "2025-08-09 13:43:06.609484"
+      "fully_synced_at": "2025-08-09 18:58:51.721247"
     },
     "237313162": {
       "tag_name": "v1.8.1",
-      "fully_synced_at": "2025-08-09 13:43:13.195763"
+      "fully_synced_at": "2025-08-09 18:58:57.413017"
     },
     "237864896": {
       "tag_name": "v1.8.2",
-      "fully_synced_at": "2025-08-09 13:43:16.413283"
+      "fully_synced_at": "2025-08-09 18:59:00.182605"
     },
     "238737355": {
       "tag_name": "v1.8.3",
-      "fully_synced_at": "2025-08-09 13:43:19.393035"
+      "fully_synced_at": "2025-08-09 18:59:03.351921"
     },
     "238766453": {
       "tag_name": "dev",
-      "fully_synced_at": "2025-08-09 13:45:52.700835"
+      "fully_synced_at": "2025-08-09 19:01:46.130755"
     }
   },
   "assets": {
@@ -16582,8 +16582,8 @@
       "latest.yml_3040": {
         "name": "latest.yml",
         "size": 3040,
-        "updated_at": "2025-08-09T13:43:32+00:00",
-        "synced_at": "2025-08-09 13:43:32.365335"
+        "updated_at": "2025-08-09T18:59:08+00:00",
+        "synced_at": "2025-08-09 18:59:08.477686"
       },
       "mihomo-party-catalina-1.8.3-arm64.pkg_174871232": {
         "name": "mihomo-party-catalina-1.8.3-arm64.pkg",
@@ -16594,8 +16594,8 @@
       "mihomo-party-catalina-1.8.3-arm64.pkg.sha256_64": {
         "name": "mihomo-party-catalina-1.8.3-arm64.pkg.sha256",
         "size": 64,
-        "updated_at": "2025-08-09T13:43:41+00:00",
-        "synced_at": "2025-08-09 13:43:41.668073"
+        "updated_at": "2025-08-09T18:59:18+00:00",
+        "synced_at": "2025-08-09 18:59:18.578404"
       },
       "mihomo-party-catalina-1.8.3-x64.pkg_185785325": {
         "name": "mihomo-party-catalina-1.8.3-x64.pkg",
@@ -16606,8 +16606,8 @@
       "mihomo-party-catalina-1.8.3-x64.pkg.sha256_64": {
         "name": "mihomo-party-catalina-1.8.3-x64.pkg.sha256",
         "size": 64,
-        "updated_at": "2025-08-09T13:43:52+00:00",
-        "synced_at": "2025-08-09 13:43:52.611607"
+        "updated_at": "2025-08-09T18:59:29+00:00",
+        "synced_at": "2025-08-09 18:59:29.440837"
       },
       "mihomo-party-linux-1.8.3-aarch64.rpm_112415229": {
         "name": "mihomo-party-linux-1.8.3-aarch64.rpm",
@@ -16618,8 +16618,8 @@
       "mihomo-party-linux-1.8.3-aarch64.rpm.sha256_64": {
         "name": "mihomo-party-linux-1.8.3-aarch64.rpm.sha256",
         "size": 64,
-        "updated_at": "2025-08-09T13:44:00+00:00",
-        "synced_at": "2025-08-09 13:44:00.183104"
+        "updated_at": "2025-08-09T18:59:38+00:00",
+        "synced_at": "2025-08-09 18:59:38.108168"
       },
       "mihomo-party-linux-1.8.3-amd64.deb_130516746": {
         "name": "mihomo-party-linux-1.8.3-amd64.deb",
@@ -16630,8 +16630,8 @@
       "mihomo-party-linux-1.8.3-amd64.deb.sha256_64": {
         "name": "mihomo-party-linux-1.8.3-amd64.deb.sha256",
         "size": 64,
-        "updated_at": "2025-08-09T13:44:08+00:00",
-        "synced_at": "2025-08-09 13:44:08.723111"
+        "updated_at": "2025-08-09T18:59:46+00:00",
+        "synced_at": "2025-08-09 18:59:46.841372"
       },
       "mihomo-party-linux-1.8.3-arm64.deb_116826110": {
         "name": "mihomo-party-linux-1.8.3-arm64.deb",
@@ -16642,8 +16642,8 @@
       "mihomo-party-linux-1.8.3-arm64.deb.sha256_64": {
         "name": "mihomo-party-linux-1.8.3-arm64.deb.sha256",
         "size": 64,
-        "updated_at": "2025-08-09T13:44:16+00:00",
-        "synced_at": "2025-08-09 13:44:16.657952"
+        "updated_at": "2025-08-09T18:59:55+00:00",
+        "synced_at": "2025-08-09 18:59:55.082254"
       },
       "mihomo-party-linux-1.8.3-x86_64.rpm_124544741": {
         "name": "mihomo-party-linux-1.8.3-x86_64.rpm",
@@ -16654,8 +16654,8 @@
       "mihomo-party-linux-1.8.3-x86_64.rpm.sha256_64": {
         "name": "mihomo-party-linux-1.8.3-x86_64.rpm.sha256",
         "size": 64,
-        "updated_at": "2025-08-09T13:44:24+00:00",
-        "synced_at": "2025-08-09 13:44:25.145434"
+        "updated_at": "2025-08-09T19:00:03+00:00",
+        "synced_at": "2025-08-09 19:00:03.631296"
       },
       "mihomo-party-macos-1.8.3-arm64.pkg_186158917": {
         "name": "mihomo-party-macos-1.8.3-arm64.pkg",
@@ -16666,8 +16666,8 @@
       "mihomo-party-macos-1.8.3-arm64.pkg.sha256_64": {
         "name": "mihomo-party-macos-1.8.3-arm64.pkg.sha256",
         "size": 64,
-        "updated_at": "2025-08-09T13:44:36+00:00",
-        "synced_at": "2025-08-09 13:44:36.409805"
+        "updated_at": "2025-08-09T19:00:13+00:00",
+        "synced_at": "2025-08-09 19:00:13.651061"
       },
       "mihomo-party-macos-1.8.3-x64.pkg_197911860": {
         "name": "mihomo-party-macos-1.8.3-x64.pkg",
@@ -16678,8 +16678,8 @@
       "mihomo-party-macos-1.8.3-x64.pkg.sha256_64": {
         "name": "mihomo-party-macos-1.8.3-x64.pkg.sha256",
         "size": 64,
-        "updated_at": "2025-08-09T13:44:48+00:00",
-        "synced_at": "2025-08-09 13:44:48.117238"
+        "updated_at": "2025-08-09T19:00:25+00:00",
+        "synced_at": "2025-08-09 19:00:25.292233"
       },
       "mihomo-party-win7-1.8.3-ia32-portable.7z_99921868": {
         "name": "mihomo-party-win7-1.8.3-ia32-portable.7z",
@@ -16690,8 +16690,8 @@
       "mihomo-party-win7-1.8.3-ia32-portable.7z.sha256_64": {
         "name": "mihomo-party-win7-1.8.3-ia32-portable.7z.sha256",
         "size": 64,
-        "updated_at": "2025-08-09T13:44:54+00:00",
-        "synced_at": "2025-08-09 13:44:54.832113"
+        "updated_at": "2025-08-09T19:00:33+00:00",
+        "synced_at": "2025-08-09 19:00:33.625822"
       },
       "mihomo-party-win7-1.8.3-ia32-setup.exe_116935408": {
         "name": "mihomo-party-win7-1.8.3-ia32-setup.exe",
@@ -16702,8 +16702,8 @@
       "mihomo-party-win7-1.8.3-ia32-setup.exe.sha256_64": {
         "name": "mihomo-party-win7-1.8.3-ia32-setup.exe.sha256",
         "size": 64,
-        "updated_at": "2025-08-09T13:45:02+00:00",
-        "synced_at": "2025-08-09 13:45:02.890528"
+        "updated_at": "2025-08-09T19:00:41+00:00",
+        "synced_at": "2025-08-09 19:00:41.920182"
       },
       "mihomo-party-win7-1.8.3-x64-portable.7z_104357728": {
         "name": "mihomo-party-win7-1.8.3-x64-portable.7z",
@@ -16714,8 +16714,8 @@
       "mihomo-party-win7-1.8.3-x64-portable.7z.sha256_64": {
         "name": "mihomo-party-win7-1.8.3-x64-portable.7z.sha256",
         "size": 64,
-        "updated_at": "2025-08-09T13:45:10+00:00",
-        "synced_at": "2025-08-09 13:45:10.576726"
+        "updated_at": "2025-08-09T19:00:49+00:00",
+        "synced_at": "2025-08-09 19:00:49.690655"
       },
       "mihomo-party-win7-1.8.3-x64-setup.exe_122313860": {
         "name": "mihomo-party-win7-1.8.3-x64-setup.exe",
@@ -16726,8 +16726,8 @@
       "mihomo-party-win7-1.8.3-x64-setup.exe.sha256_64": {
         "name": "mihomo-party-win7-1.8.3-x64-setup.exe.sha256",
         "size": 64,
-        "updated_at": "2025-08-09T13:45:18+00:00",
-        "synced_at": "2025-08-09 13:45:18.931061"
+        "updated_at": "2025-08-09T19:00:58+00:00",
+        "synced_at": "2025-08-09 19:00:58.537972"
       },
       "mihomo-party-windows-1.8.3-arm64-portable.7z_123724479": {
         "name": "mihomo-party-windows-1.8.3-arm64-portable.7z",
@@ -16738,8 +16738,8 @@
       "mihomo-party-windows-1.8.3-arm64-portable.7z.sha256_64": {
         "name": "mihomo-party-windows-1.8.3-arm64-portable.7z.sha256",
         "size": 64,
-        "updated_at": "2025-08-09T13:45:27+00:00",
-        "synced_at": "2025-08-09 13:45:27.154928"
+        "updated_at": "2025-08-09T19:01:07+00:00",
+        "synced_at": "2025-08-09 19:01:07.374428"
       },
       "mihomo-party-windows-1.8.3-arm64-setup.exe_139928012": {
         "name": "mihomo-party-windows-1.8.3-arm64-setup.exe",
@@ -16750,8 +16750,8 @@
       "mihomo-party-windows-1.8.3-arm64-setup.exe.sha256_64": {
         "name": "mihomo-party-windows-1.8.3-arm64-setup.exe.sha256",
         "size": 64,
-        "updated_at": "2025-08-09T13:45:36+00:00",
-        "synced_at": "2025-08-09 13:45:36.389247"
+        "updated_at": "2025-08-09T19:01:16+00:00",
+        "synced_at": "2025-08-09 19:01:16.526340"
       },
       "mihomo-party-windows-1.8.3-ia32-portable.7z_115235874": {
         "name": "mihomo-party-windows-1.8.3-ia32-portable.7z",
@@ -16762,14 +16762,140 @@
       "mihomo-party-windows-1.8.3-ia32-portable.7z.sha256_64": {
         "name": "mihomo-party-windows-1.8.3-ia32-portable.7z.sha256",
         "size": 64,
-        "updated_at": "2025-08-09T13:45:44+00:00",
-        "synced_at": "2025-08-09 13:45:44.890046"
+        "updated_at": "2025-08-09T19:01:24+00:00",
+        "synced_at": "2025-08-09 19:01:24.963842"
       },
       "mihomo-party-windows-1.8.3-ia32-setup.exe_133635397": {
         "name": "mihomo-party-windows-1.8.3-ia32-setup.exe",
         "size": 133635397,
         "updated_at": "2025-08-09T13:45:51+00:00",
         "synced_at": "2025-08-09 13:45:52.077527"
+      },
+      "mihomo-party-catalina-1.8.3-arm64.pkg_174872882": {
+        "name": "mihomo-party-catalina-1.8.3-arm64.pkg",
+        "size": 174872882,
+        "updated_at": "2025-08-09T18:59:15+00:00",
+        "synced_at": "2025-08-09 18:59:15.971385"
+      },
+      "mihomo-party-catalina-1.8.3-x64.pkg_185784863": {
+        "name": "mihomo-party-catalina-1.8.3-x64.pkg",
+        "size": 185784863,
+        "updated_at": "2025-08-09T18:59:26+00:00",
+        "synced_at": "2025-08-09 18:59:26.738049"
+      },
+      "mihomo-party-linux-1.8.3-aarch64.rpm_112405349": {
+        "name": "mihomo-party-linux-1.8.3-aarch64.rpm",
+        "size": 112405349,
+        "updated_at": "2025-08-09T18:59:35+00:00",
+        "synced_at": "2025-08-09 18:59:35.585536"
+      },
+      "mihomo-party-linux-1.8.3-amd64.deb_130517710": {
+        "name": "mihomo-party-linux-1.8.3-amd64.deb",
+        "size": 130517710,
+        "updated_at": "2025-08-09T18:59:44+00:00",
+        "synced_at": "2025-08-09 18:59:44.257163"
+      },
+      "mihomo-party-linux-1.8.3-arm64.deb_116825186": {
+        "name": "mihomo-party-linux-1.8.3-arm64.deb",
+        "size": 116825186,
+        "updated_at": "2025-08-09T18:59:52+00:00",
+        "synced_at": "2025-08-09 18:59:52.518874"
+      },
+      "mihomo-party-linux-1.8.3-x86_64.rpm_124551089": {
+        "name": "mihomo-party-linux-1.8.3-x86_64.rpm",
+        "size": 124551089,
+        "updated_at": "2025-08-09T19:00:00+00:00",
+        "synced_at": "2025-08-09 19:00:01.067641"
+      },
+      "mihomo-party-macos-1.8.3-arm64.pkg_186159007": {
+        "name": "mihomo-party-macos-1.8.3-arm64.pkg",
+        "size": 186159007,
+        "updated_at": "2025-08-09T19:00:10+00:00",
+        "synced_at": "2025-08-09 19:00:10.991138"
+      },
+      "mihomo-party-macos-1.8.3-x64.pkg_197905517": {
+        "name": "mihomo-party-macos-1.8.3-x64.pkg",
+        "size": 197905517,
+        "updated_at": "2025-08-09T19:00:22+00:00",
+        "synced_at": "2025-08-09 19:00:22.629495"
+      },
+      "mihomo-party-win7-1.8.3-ia32-portable.7z_99927087": {
+        "name": "mihomo-party-win7-1.8.3-ia32-portable.7z",
+        "size": 99927087,
+        "updated_at": "2025-08-09T19:00:30+00:00",
+        "synced_at": "2025-08-09 19:00:31.025240"
+      },
+      "mihomo-party-win7-1.8.3-ia32-setup.exe_116935962": {
+        "name": "mihomo-party-win7-1.8.3-ia32-setup.exe",
+        "size": 116935962,
+        "updated_at": "2025-08-09T19:00:39+00:00",
+        "synced_at": "2025-08-09 19:00:39.150110"
+      },
+      "mihomo-party-win7-1.8.3-x64-portable.7z_104361891": {
+        "name": "mihomo-party-win7-1.8.3-x64-portable.7z",
+        "size": 104361891,
+        "updated_at": "2025-08-09T19:00:47+00:00",
+        "synced_at": "2025-08-09 19:00:47.139504"
+      },
+      "mihomo-party-win7-1.8.3-x64-setup.exe_122314264": {
+        "name": "mihomo-party-win7-1.8.3-x64-setup.exe",
+        "size": 122314264,
+        "updated_at": "2025-08-09T19:00:55+00:00",
+        "synced_at": "2025-08-09 19:00:55.989919"
+      },
+      "mihomo-party-windows-1.8.3-arm64-portable.7z_123727195": {
+        "name": "mihomo-party-windows-1.8.3-arm64-portable.7z",
+        "size": 123727195,
+        "updated_at": "2025-08-09T19:01:04+00:00",
+        "synced_at": "2025-08-09 19:01:04.684902"
+      },
+      "mihomo-party-windows-1.8.3-arm64-setup.exe_139928131": {
+        "name": "mihomo-party-windows-1.8.3-arm64-setup.exe",
+        "size": 139928131,
+        "updated_at": "2025-08-09T19:01:13+00:00",
+        "synced_at": "2025-08-09 19:01:13.777230"
+      },
+      "mihomo-party-windows-1.8.3-ia32-portable.7z_115234468": {
+        "name": "mihomo-party-windows-1.8.3-ia32-portable.7z",
+        "size": 115234468,
+        "updated_at": "2025-08-09T19:01:22+00:00",
+        "synced_at": "2025-08-09 19:01:22.253897"
+      },
+      "mihomo-party-windows-1.8.3-ia32-setup.exe_133635949": {
+        "name": "mihomo-party-windows-1.8.3-ia32-setup.exe",
+        "size": 133635949,
+        "updated_at": "2025-08-09T19:01:31+00:00",
+        "synced_at": "2025-08-09 19:01:31.645750"
+      },
+      "mihomo-party-windows-1.8.3-ia32-setup.exe.sha256_64": {
+        "name": "mihomo-party-windows-1.8.3-ia32-setup.exe.sha256",
+        "size": 64,
+        "updated_at": "2025-08-09T19:01:32+00:00",
+        "synced_at": "2025-08-09 19:01:33.102884"
+      },
+      "mihomo-party-windows-1.8.3-x64-portable.7z_127873654": {
+        "name": "mihomo-party-windows-1.8.3-x64-portable.7z",
+        "size": 127873654,
+        "updated_at": "2025-08-09T19:01:37+00:00",
+        "synced_at": "2025-08-09 19:01:37.738371"
+      },
+      "mihomo-party-windows-1.8.3-x64-portable.7z.sha256_64": {
+        "name": "mihomo-party-windows-1.8.3-x64-portable.7z.sha256",
+        "size": 64,
+        "updated_at": "2025-08-09T19:01:39+00:00",
+        "synced_at": "2025-08-09 19:01:39.129172"
+      },
+      "mihomo-party-windows-1.8.3-x64-setup.exe_141314641": {
+        "name": "mihomo-party-windows-1.8.3-x64-setup.exe",
+        "size": 141314641,
+        "updated_at": "2025-08-09T19:01:44+00:00",
+        "synced_at": "2025-08-09 19:01:44.680071"
+      },
+      "mihomo-party-windows-1.8.3-x64-setup.exe.sha256_64": {
+        "name": "mihomo-party-windows-1.8.3-x64-setup.exe.sha256",
+        "size": 64,
+        "updated_at": "2025-08-09T19:01:46+00:00",
+        "synced_at": "2025-08-09 19:01:46.109668"
       }
     }
   },
