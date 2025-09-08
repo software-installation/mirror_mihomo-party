@@ -2,379 +2,379 @@
   "releases": {
     "169959577": {
       "tag_name": "v0.5.0",
-      "fully_synced_at": "2025-09-08 01:17:42.386129"
+      "fully_synced_at": "2025-09-08 06:26:29.895504"
     },
     "170106970": {
       "tag_name": "v0.5.1",
-      "fully_synced_at": "2025-09-08 01:17:46.967898"
+      "fully_synced_at": "2025-09-08 06:26:34.758899"
     },
     "170123657": {
       "tag_name": "v0.5.2",
-      "fully_synced_at": "2025-09-08 01:17:51.460149"
+      "fully_synced_at": "2025-09-08 06:26:40.312039"
     },
     "170196703": {
       "tag_name": "v0.5.3",
-      "fully_synced_at": "2025-09-08 01:17:56.259057"
+      "fully_synced_at": "2025-09-08 06:26:45.145957"
     },
     "170306762": {
       "tag_name": "v0.5.4",
-      "fully_synced_at": "2025-09-08 01:18:00.445289"
+      "fully_synced_at": "2025-09-08 06:26:50.342838"
     },
     "170370734": {
       "tag_name": "v0.5.5",
-      "fully_synced_at": "2025-09-08 01:18:05.077835"
+      "fully_synced_at": "2025-09-08 06:26:55.178216"
     },
     "170500149": {
       "tag_name": "v0.5.6",
-      "fully_synced_at": "2025-09-08 01:18:09.662290"
+      "fully_synced_at": "2025-09-08 06:26:59.818098"
     },
     "170532587": {
       "tag_name": "v0.5.7",
-      "fully_synced_at": "2025-09-08 01:18:14.558135"
+      "fully_synced_at": "2025-09-08 06:27:04.849081"
     },
     "170708082": {
       "tag_name": "v0.5.8",
-      "fully_synced_at": "2025-09-08 01:18:21.112371"
+      "fully_synced_at": "2025-09-08 06:27:08.508257"
     },
     "170720024": {
       "tag_name": "v0.6.0",
-      "fully_synced_at": "2025-09-08 01:18:24.883368"
+      "fully_synced_at": "2025-09-08 06:27:12.993516"
     },
     "170748937": {
       "tag_name": "v0.6.1",
-      "fully_synced_at": "2025-09-08 01:18:28.797699"
+      "fully_synced_at": "2025-09-08 06:27:16.760332"
     },
     "170755416": {
       "tag_name": "v0.6.2",
-      "fully_synced_at": "2025-09-08 01:18:32.531380"
+      "fully_synced_at": "2025-09-08 06:27:20.786847"
     },
     "170792839": {
       "tag_name": "v0.6.3",
-      "fully_synced_at": "2025-09-08 01:18:37.428038"
+      "fully_synced_at": "2025-09-08 06:27:25.336475"
     },
     "170867122": {
       "tag_name": "v1.0.0",
-      "fully_synced_at": "2025-09-08 01:18:41.324913"
+      "fully_synced_at": "2025-09-08 06:27:32.568995"
     },
     "171107797": {
       "tag_name": "v1.0.1",
-      "fully_synced_at": "2025-09-08 01:18:47.233841"
+      "fully_synced_at": "2025-09-08 06:27:37.087243"
     },
     "171179512": {
       "tag_name": "v1.0.2",
-      "fully_synced_at": "2025-09-08 01:18:51.757805"
+      "fully_synced_at": "2025-09-08 06:27:41.337296"
     },
     "171418634": {
       "tag_name": "v1.0.3",
-      "fully_synced_at": "2025-09-08 01:18:55.740895"
+      "fully_synced_at": "2025-09-08 06:27:45.459709"
     },
     "171780612": {
       "tag_name": "v1.0.4",
-      "fully_synced_at": "2025-09-08 01:19:01.923164"
+      "fully_synced_at": "2025-09-08 06:27:49.255535"
     },
     "171830243": {
       "tag_name": "v1.0.5",
-      "fully_synced_at": "2025-09-08 01:19:05.543403"
+      "fully_synced_at": "2025-09-08 06:27:53.226373"
     },
     "171875823": {
       "tag_name": "v1.0.6",
-      "fully_synced_at": "2025-09-08 01:19:09.635989"
+      "fully_synced_at": "2025-09-08 06:27:57.228369"
     },
     "171881978": {
       "tag_name": "v1.0.7",
-      "fully_synced_at": "2025-09-08 01:19:13.512932"
+      "fully_synced_at": "2025-09-08 06:28:01.385162"
     },
     "171926219": {
       "tag_name": "v1.0.8",
-      "fully_synced_at": "2025-09-08 01:19:17.578154"
+      "fully_synced_at": "2025-09-08 06:28:05.638745"
     },
     "172130785": {
       "tag_name": "v1.0.9",
-      "fully_synced_at": "2025-09-08 01:19:21.460517"
+      "fully_synced_at": "2025-09-08 06:28:09.887072"
     },
     "172392117": {
       "tag_name": "v1.1.0",
-      "fully_synced_at": "2025-09-08 01:19:25.717377"
+      "fully_synced_at": "2025-09-08 06:28:14.214050"
     },
     "172479849": {
       "tag_name": "v1.1.1",
-      "fully_synced_at": "2025-09-08 01:19:29.204700"
+      "fully_synced_at": "2025-09-08 06:28:18.748337"
     },
     "172523673": {
       "tag_name": "v1.1.2",
-      "fully_synced_at": "2025-09-08 01:19:33.064347"
+      "fully_synced_at": "2025-09-08 06:28:22.693617"
     },
     "172729497": {
       "tag_name": "v1.2.0",
-      "fully_synced_at": "2025-09-08 01:19:37.229754"
+      "fully_synced_at": "2025-09-08 06:28:27.673557"
     },
     "172895783": {
       "tag_name": "v1.2.1",
-      "fully_synced_at": "2025-09-08 01:19:40.773441"
+      "fully_synced_at": "2025-09-08 06:28:33.676021"
     },
     "172942808": {
       "tag_name": "v1.2.2",
-      "fully_synced_at": "2025-09-08 01:19:44.804180"
+      "fully_synced_at": "2025-09-08 06:28:38.010021"
     },
     "172969743": {
       "tag_name": "v1.2.3",
-      "fully_synced_at": "2025-09-08 01:19:48.977489"
+      "fully_synced_at": "2025-09-08 06:28:42.516404"
     },
     "173034361": {
       "tag_name": "v1.2.4",
-      "fully_synced_at": "2025-09-08 01:19:52.697867"
+      "fully_synced_at": "2025-09-08 06:28:46.376021"
     },
     "173151281": {
       "tag_name": "v1.2.5",
-      "fully_synced_at": "2025-09-08 01:19:56.260818"
+      "fully_synced_at": "2025-09-08 06:28:50.870895"
     },
     "173257562": {
       "tag_name": "v1.2.6",
-      "fully_synced_at": "2025-09-08 01:20:00.598425"
+      "fully_synced_at": "2025-09-08 06:28:55.464816"
     },
     "173408349": {
       "tag_name": "v1.2.7",
-      "fully_synced_at": "2025-09-08 01:20:04.683879"
+      "fully_synced_at": "2025-09-08 06:28:59.208317"
     },
     "173552223": {
       "tag_name": "v1.2.8",
-      "fully_synced_at": "2025-09-08 01:20:09.034861"
+      "fully_synced_at": "2025-09-08 06:29:03.162148"
     },
     "173564659": {
       "tag_name": "v1.2.9",
-      "fully_synced_at": "2025-09-08 01:20:13.258178"
+      "fully_synced_at": "2025-09-08 06:29:07.260484"
     },
     "173566122": {
       "tag_name": "v1.2.10",
-      "fully_synced_at": "2025-09-08 01:20:17.192283"
+      "fully_synced_at": "2025-09-08 06:29:11.195944"
     },
     "173834657": {
       "tag_name": "v1.2.11",
-      "fully_synced_at": "2025-09-08 01:20:20.762780"
+      "fully_synced_at": "2025-09-08 06:29:15.822442"
     },
     "173998872": {
       "tag_name": "v1.2.12",
-      "fully_synced_at": "2025-09-08 01:20:23.515441"
+      "fully_synced_at": "2025-09-08 06:29:19.500174"
     },
     "178886346": {
       "tag_name": "v1.4.4",
-      "fully_synced_at": "2025-09-08 01:20:27.092908"
+      "fully_synced_at": "2025-09-08 06:29:24.020530"
     },
     "174050204": {
       "tag_name": "v1.2.13",
-      "fully_synced_at": "2025-09-08 01:20:30.599648"
+      "fully_synced_at": "2025-09-08 06:29:27.270269"
     },
     "174461665": {
       "tag_name": "v1.2.14",
-      "fully_synced_at": "2025-09-08 01:20:34.017363"
+      "fully_synced_at": "2025-09-08 06:29:30.381733"
     },
     "174510912": {
       "tag_name": "v1.2.15",
-      "fully_synced_at": "2025-09-08 01:20:36.598928"
+      "fully_synced_at": "2025-09-08 06:29:34.139064"
     },
     "174676553": {
       "tag_name": "v1.2.16",
-      "fully_synced_at": "2025-09-08 01:20:39.182943"
+      "fully_synced_at": "2025-09-08 06:29:39.701949"
     },
     "174952731": {
       "tag_name": "v1.2.17",
-      "fully_synced_at": "2025-09-08 01:20:42.079559"
+      "fully_synced_at": "2025-09-08 06:29:42.716001"
     },
     "175066502": {
       "tag_name": "v1.2.18",
-      "fully_synced_at": "2025-09-08 01:20:46.036243"
+      "fully_synced_at": "2025-09-08 06:29:46.863618"
     },
     "175118826": {
       "tag_name": "v1.2.19",
-      "fully_synced_at": "2025-09-08 01:20:49.839935"
+      "fully_synced_at": "2025-09-08 06:29:51.386172"
     },
     "175165402": {
       "tag_name": "v1.2.20",
-      "fully_synced_at": "2025-09-08 01:20:53.513613"
+      "fully_synced_at": "2025-09-08 06:29:56.806869"
     },
     "175690956": {
       "tag_name": "v1.2.21",
-      "fully_synced_at": "2025-09-08 01:20:57.679265"
+      "fully_synced_at": "2025-09-08 06:30:00.990612"
     },
     "176045261": {
       "tag_name": "v1.2.22",
-      "fully_synced_at": "2025-09-08 01:21:01.437867"
+      "fully_synced_at": "2025-09-08 06:30:05.776038"
     },
     "176073687": {
       "tag_name": "v1.2.23",
-      "fully_synced_at": "2025-09-08 01:21:05.915291"
+      "fully_synced_at": "2025-09-08 06:30:10.253862"
     },
     "176217095": {
       "tag_name": "v1.2.24",
-      "fully_synced_at": "2025-09-08 01:21:10.890852"
+      "fully_synced_at": "2025-09-08 06:30:14.801020"
     },
     "176239100": {
       "tag_name": "v1.3.0",
-      "fully_synced_at": "2025-09-08 01:21:15.087380"
+      "fully_synced_at": "2025-09-08 06:30:19.304910"
     },
     "176278049": {
       "tag_name": "v1.3.1",
-      "fully_synced_at": "2025-09-08 01:21:19.434371"
+      "fully_synced_at": "2025-09-08 06:30:23.598933"
     },
     "176422790": {
       "tag_name": "v1.3.2",
-      "fully_synced_at": "2025-09-08 01:21:23.805173"
+      "fully_synced_at": "2025-09-08 06:30:28.403360"
     },
     "176765124": {
       "tag_name": "v1.3.3",
-      "fully_synced_at": "2025-09-08 01:21:27.904368"
+      "fully_synced_at": "2025-09-08 06:30:32.831715"
     },
     "176839447": {
       "tag_name": "v1.3.4",
-      "fully_synced_at": "2025-09-08 01:21:31.608381"
+      "fully_synced_at": "2025-09-08 06:30:37.484003"
     },
     "177463247": {
       "tag_name": "v1.3.5",
-      "fully_synced_at": "2025-09-08 01:21:35.266517"
+      "fully_synced_at": "2025-09-08 06:30:42.141701"
     },
     "177468830": {
       "tag_name": "v1.3.6",
-      "fully_synced_at": "2025-09-08 01:21:39.374055"
+      "fully_synced_at": "2025-09-08 06:30:46.252611"
     },
     "177502838": {
       "tag_name": "v1.3.7",
-      "fully_synced_at": "2025-09-08 01:21:43.742897"
+      "fully_synced_at": "2025-09-08 06:30:51.138624"
     },
     "177516890": {
       "tag_name": "v1.4.0",
-      "fully_synced_at": "2025-09-08 01:21:47.606583"
+      "fully_synced_at": "2025-09-08 06:30:55.843573"
     },
     "177952365": {
       "tag_name": "v1.4.1",
-      "fully_synced_at": "2025-09-08 01:21:53.431406"
+      "fully_synced_at": "2025-09-08 06:31:00.366133"
     },
     "178521971": {
       "tag_name": "v1.4.2",
-      "fully_synced_at": "2025-09-08 01:21:57.811943"
+      "fully_synced_at": "2025-09-08 06:31:04.630731"
     },
     "178591762": {
       "tag_name": "v1.4.3",
-      "fully_synced_at": "2025-09-08 01:22:02.080216"
+      "fully_synced_at": "2025-09-08 06:31:09.157992"
     },
     "179464458": {
       "tag_name": "v1.4.5",
-      "fully_synced_at": "2025-09-08 01:22:06.141233"
+      "fully_synced_at": "2025-09-08 06:31:13.780738"
     },
     "179644579": {
       "tag_name": "v1.4.7",
-      "fully_synced_at": "2025-09-08 01:22:10.630826"
+      "fully_synced_at": "2025-09-08 06:31:19.010579"
     },
     "179939484": {
       "tag_name": "v1.4.8",
-      "fully_synced_at": "2025-09-08 01:22:14.454664"
+      "fully_synced_at": "2025-09-08 06:31:23.163569"
     },
     "180141717": {
       "tag_name": "v1.4.9",
-      "fully_synced_at": "2025-09-08 01:22:18.075574"
+      "fully_synced_at": "2025-09-08 06:31:27.996344"
     },
     "180189813": {
       "tag_name": "v1.5.0",
-      "fully_synced_at": "2025-09-08 01:22:20.990852"
+      "fully_synced_at": "2025-09-08 06:31:31.090923"
     },
     "180255212": {
       "tag_name": "v1.5.1",
-      "fully_synced_at": "2025-09-08 01:22:24.082250"
+      "fully_synced_at": "2025-09-08 06:31:34.478267"
     },
     "180790072": {
       "tag_name": "v1.5.2",
-      "fully_synced_at": "2025-09-08 01:22:26.889774"
+      "fully_synced_at": "2025-09-08 06:31:37.992978"
     },
     "181039382": {
       "tag_name": "v1.5.3",
-      "fully_synced_at": "2025-09-08 01:22:30.115140"
+      "fully_synced_at": "2025-09-08 06:31:41.231258"
     },
     "181619750": {
       "tag_name": "v1.5.5",
-      "fully_synced_at": "2025-09-08 01:22:33.417747"
+      "fully_synced_at": "2025-09-08 06:31:44.698425"
     },
     "182680102": {
       "tag_name": "v1.5.6",
-      "fully_synced_at": "2025-09-08 01:22:36.533503"
+      "fully_synced_at": "2025-09-08 06:31:47.809951"
     },
     "184601650": {
       "tag_name": "v1.5.7",
-      "fully_synced_at": "2025-09-08 01:22:39.574251"
+      "fully_synced_at": "2025-09-08 06:31:51.382174"
     },
     "185421596": {
       "tag_name": "v1.5.8",
-      "fully_synced_at": "2025-09-08 01:22:42.831517"
+      "fully_synced_at": "2025-09-08 06:31:54.515496"
     },
     "185437001": {
       "tag_name": "v1.5.9",
-      "fully_synced_at": "2025-09-08 01:22:45.754992"
+      "fully_synced_at": "2025-09-08 06:31:57.792138"
     },
     "185442168": {
       "tag_name": "v1.5.10",
-      "fully_synced_at": "2025-09-08 01:22:48.546270"
+      "fully_synced_at": "2025-09-08 06:32:01.026217"
     },
     "186115524": {
       "tag_name": "v1.5.11",
-      "fully_synced_at": "2025-09-08 01:22:51.936450"
+      "fully_synced_at": "2025-09-08 06:32:04.128930"
     },
     "187149556": {
       "tag_name": "v1.5.12",
-      "fully_synced_at": "2025-09-08 01:22:54.805655"
+      "fully_synced_at": "2025-09-08 06:32:07.822129"
     },
     "194246408": {
       "tag_name": "v1.5.13",
-      "fully_synced_at": "2025-09-08 01:22:57.931300"
+      "fully_synced_at": "2025-09-08 06:32:11.035861"
     },
     "194330973": {
       "tag_name": "v1.6.0",
-      "fully_synced_at": "2025-09-08 01:23:00.736061"
+      "fully_synced_at": "2025-09-08 06:32:14.326488"
     },
     "199137163": {
       "tag_name": "v1.7.0",
-      "fully_synced_at": "2025-09-08 01:23:03.782256"
+      "fully_synced_at": "2025-09-08 06:32:17.912074"
     },
     "199179708": {
       "tag_name": "v1.7.1",
-      "fully_synced_at": "2025-09-08 01:23:06.525946"
+      "fully_synced_at": "2025-09-08 06:32:21.667943"
     },
     "203270015": {
       "tag_name": "v1.7.2",
-      "fully_synced_at": "2025-09-08 01:23:09.519776"
+      "fully_synced_at": "2025-09-08 06:32:25.423701"
     },
     "214939935": {
       "tag_name": "v1.7.3",
-      "fully_synced_at": "2025-09-08 01:23:12.483617"
+      "fully_synced_at": "2025-09-08 06:32:28.821332"
     },
     "223263860": {
       "tag_name": "v1.7.4",
-      "fully_synced_at": "2025-09-08 01:23:15.579795"
+      "fully_synced_at": "2025-09-08 06:32:31.954278"
     },
     "223832064": {
       "tag_name": "v1.7.5",
-      "fully_synced_at": "2025-09-08 01:23:18.393095"
+      "fully_synced_at": "2025-09-08 06:32:35.131396"
     },
     "225887064": {
       "tag_name": "v1.7.6",
-      "fully_synced_at": "2025-09-08 01:23:21.702947"
+      "fully_synced_at": "2025-09-08 06:32:38.699638"
     },
     "236602643": {
       "tag_name": "v1.7.7",
-      "fully_synced_at": "2025-09-08 01:23:28.597998"
+      "fully_synced_at": "2025-09-08 06:32:45.359061"
     },
     "237067522": {
       "tag_name": "v1.8.0",
-      "fully_synced_at": "2025-09-08 01:23:25.149927"
+      "fully_synced_at": "2025-09-08 06:32:41.909756"
     },
     "237313162": {
       "tag_name": "v1.8.1",
-      "fully_synced_at": "2025-09-08 01:23:31.831145"
+      "fully_synced_at": "2025-09-08 06:32:48.797126"
     },
     "237864896": {
       "tag_name": "v1.8.2",
-      "fully_synced_at": "2025-09-08 01:23:34.725471"
+      "fully_synced_at": "2025-09-08 06:32:51.975145"
     },
     "238737355": {
       "tag_name": "v1.8.3",
-      "fully_synced_at": "2025-09-08 01:23:38.222536"
+      "fully_synced_at": "2025-09-08 06:32:55.646912"
     },
     "238766453": {
       "tag_name": "dev",
@@ -382,7 +382,7 @@
     },
     "239547587": {
       "tag_name": "v1.8.4",
-      "fully_synced_at": "2025-09-08 01:23:41.176623"
+      "fully_synced_at": "2025-09-08 06:32:58.720777"
     },
     "242025335": {
       "tag_name": "dev",
@@ -390,15 +390,15 @@
     },
     "242153563": {
       "tag_name": "dev",
-      "fully_synced_at": "2025-09-08 01:36:20.127990"
+      "fully_synced_at": "2025-09-08 07:00:24.886492"
     },
     "242777441": {
       "tag_name": "v1.8.5",
-      "fully_synced_at": "2025-09-08 01:36:23.123464"
+      "fully_synced_at": "2025-09-08 07:00:28.709816"
     },
     "243708834": {
       "tag_name": "v1.8.6",
-      "fully_synced_at": "2025-09-08 01:36:26.367106"
+      "fully_synced_at": "2025-09-08 07:00:32.303573"
     }
   },
   "assets": {
@@ -20544,8 +20544,8 @@
       "clash-party-catalina-1.8.7-d0908.469c309-arm64.pkg.sha256_64": {
         "name": "clash-party-catalina-1.8.7-d0908.469c309-arm64.pkg.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:24:19+00:00",
-        "synced_at": "2025-09-08 01:24:19.505135"
+        "updated_at": "2025-09-08T06:33:31+00:00",
+        "synced_at": "2025-09-08 06:33:31.743141"
       },
       "clash-party-catalina-1.8.7-d0908.469c309-x64.pkg_187760524": {
         "name": "clash-party-catalina-1.8.7-d0908.469c309-x64.pkg",
@@ -20556,8 +20556,8 @@
       "clash-party-catalina-1.8.7-d0908.469c309-x64.pkg.sha256_64": {
         "name": "clash-party-catalina-1.8.7-d0908.469c309-x64.pkg.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:24:40+00:00",
-        "synced_at": "2025-09-08 01:24:40.825574"
+        "updated_at": "2025-09-08T06:33:44+00:00",
+        "synced_at": "2025-09-08 06:33:44.819299"
       },
       "clash-party-linux-1.8.7-d0908.469c309-aarch64.rpm_114154433": {
         "name": "clash-party-linux-1.8.7-d0908.469c309-aarch64.rpm",
@@ -20568,8 +20568,8 @@
       "clash-party-linux-1.8.7-d0908.469c309-aarch64.rpm.sha256_64": {
         "name": "clash-party-linux-1.8.7-d0908.469c309-aarch64.rpm.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:24:59+00:00",
-        "synced_at": "2025-09-08 01:24:59.524200"
+        "updated_at": "2025-09-08T06:34:49+00:00",
+        "synced_at": "2025-09-08 06:34:49.716518"
       },
       "clash-party-linux-1.8.7-d0908.469c309-amd64.deb_128985736": {
         "name": "clash-party-linux-1.8.7-d0908.469c309-amd64.deb",
@@ -20580,8 +20580,8 @@
       "clash-party-linux-1.8.7-d0908.469c309-amd64.deb.sha256_64": {
         "name": "clash-party-linux-1.8.7-d0908.469c309-amd64.deb.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:25:18+00:00",
-        "synced_at": "2025-09-08 01:25:18.336590"
+        "updated_at": "2025-09-08T06:35:03+00:00",
+        "synced_at": "2025-09-08 06:35:03.364413"
       },
       "clash-party-linux-1.8.7-d0908.469c309-arm64.deb_118562434": {
         "name": "clash-party-linux-1.8.7-d0908.469c309-arm64.deb",
@@ -20592,8 +20592,8 @@
       "clash-party-linux-1.8.7-d0908.469c309-arm64.deb.sha256_64": {
         "name": "clash-party-linux-1.8.7-d0908.469c309-arm64.deb.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:25:37+00:00",
-        "synced_at": "2025-09-08 01:25:37.377169"
+        "updated_at": "2025-09-08T06:35:15+00:00",
+        "synced_at": "2025-09-08 06:35:16.027192"
       },
       "clash-party-linux-1.8.7-d0908.469c309-x86_64.rpm_126442449": {
         "name": "clash-party-linux-1.8.7-d0908.469c309-x86_64.rpm",
@@ -20604,8 +20604,8 @@
       "clash-party-linux-1.8.7-d0908.469c309-x86_64.rpm.sha256_64": {
         "name": "clash-party-linux-1.8.7-d0908.469c309-x86_64.rpm.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:25:57+00:00",
-        "synced_at": "2025-09-08 01:25:57.318314"
+        "updated_at": "2025-09-08T06:35:28+00:00",
+        "synced_at": "2025-09-08 06:35:28.727909"
       },
       "clash-party-macos-1.8.7-d0908.469c309-arm64.pkg_187737412": {
         "name": "clash-party-macos-1.8.7-d0908.469c309-arm64.pkg",
@@ -20616,8 +20616,8 @@
       "clash-party-macos-1.8.7-d0908.469c309-arm64.pkg.sha256_64": {
         "name": "clash-party-macos-1.8.7-d0908.469c309-arm64.pkg.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:26:15+00:00",
-        "synced_at": "2025-09-08 01:26:16.073012"
+        "updated_at": "2025-09-08T06:37:22+00:00",
+        "synced_at": "2025-09-08 06:37:22.353241"
       },
       "clash-party-macos-1.8.7-d0908.469c309-x64.pkg_199888439": {
         "name": "clash-party-macos-1.8.7-d0908.469c309-x64.pkg",
@@ -20628,8 +20628,8 @@
       "clash-party-macos-1.8.7-d0908.469c309-x64.pkg.sha256_64": {
         "name": "clash-party-macos-1.8.7-d0908.469c309-x64.pkg.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:26:37+00:00",
-        "synced_at": "2025-09-08 01:26:37.514130"
+        "updated_at": "2025-09-08T06:37:38+00:00",
+        "synced_at": "2025-09-08 06:37:38.610809"
       },
       "clash-party-win7-1.8.7-d0908.469c309-ia32-portable.7z_101814303": {
         "name": "clash-party-win7-1.8.7-d0908.469c309-ia32-portable.7z",
@@ -20640,8 +20640,8 @@
       "clash-party-win7-1.8.7-d0908.469c309-ia32-portable.7z.sha256_64": {
         "name": "clash-party-win7-1.8.7-d0908.469c309-ia32-portable.7z.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:26:56+00:00",
-        "synced_at": "2025-09-08 01:26:56.313582"
+        "updated_at": "2025-09-08T06:38:44+00:00",
+        "synced_at": "2025-09-08 06:38:44.285098"
       },
       "clash-party-win7-1.8.7-d0908.469c309-ia32-setup.exe_118745494": {
         "name": "clash-party-win7-1.8.7-d0908.469c309-ia32-setup.exe",
@@ -20652,8 +20652,8 @@
       "clash-party-win7-1.8.7-d0908.469c309-ia32-setup.exe.sha256_64": {
         "name": "clash-party-win7-1.8.7-d0908.469c309-ia32-setup.exe.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:27:15+00:00",
-        "synced_at": "2025-09-08 01:27:15.952980"
+        "updated_at": "2025-09-08T06:38:59+00:00",
+        "synced_at": "2025-09-08 06:38:59.502891"
       },
       "clash-party-win7-1.8.7-d0908.469c309-x64-portable.7z_106244501": {
         "name": "clash-party-win7-1.8.7-d0908.469c309-x64-portable.7z",
@@ -20664,8 +20664,8 @@
       "clash-party-win7-1.8.7-d0908.469c309-x64-portable.7z.sha256_64": {
         "name": "clash-party-win7-1.8.7-d0908.469c309-x64-portable.7z.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:27:34+00:00",
-        "synced_at": "2025-09-08 01:27:34.218328"
+        "updated_at": "2025-09-08T06:39:13+00:00",
+        "synced_at": "2025-09-08 06:39:14.089744"
       },
       "clash-party-win7-1.8.7-d0908.469c309-x64-setup.exe_124050224": {
         "name": "clash-party-win7-1.8.7-d0908.469c309-x64-setup.exe",
@@ -20676,8 +20676,8 @@
       "clash-party-win7-1.8.7-d0908.469c309-x64-setup.exe.sha256_64": {
         "name": "clash-party-win7-1.8.7-d0908.469c309-x64-setup.exe.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:27:54+00:00",
-        "synced_at": "2025-09-08 01:27:54.446838"
+        "updated_at": "2025-09-08T06:39:29+00:00",
+        "synced_at": "2025-09-08 06:39:29.140230"
       },
       "clash-party-windows-1.8.7-d0908.469c309-arm64-portable.7z_125179408": {
         "name": "clash-party-windows-1.8.7-d0908.469c309-arm64-portable.7z",
@@ -20688,8 +20688,8 @@
       "clash-party-windows-1.8.7-d0908.469c309-arm64-portable.7z.sha256_64": {
         "name": "clash-party-windows-1.8.7-d0908.469c309-arm64-portable.7z.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:28:13+00:00",
-        "synced_at": "2025-09-08 01:28:14.023779"
+        "updated_at": "2025-09-08T06:41:18+00:00",
+        "synced_at": "2025-09-08 06:41:18.593724"
       },
       "clash-party-windows-1.8.7-d0908.469c309-arm64-setup.exe_141586337": {
         "name": "clash-party-windows-1.8.7-d0908.469c309-arm64-setup.exe",
@@ -20700,8 +20700,8 @@
       "clash-party-windows-1.8.7-d0908.469c309-arm64-setup.exe.sha256_64": {
         "name": "clash-party-windows-1.8.7-d0908.469c309-arm64-setup.exe.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:28:34+00:00",
-        "synced_at": "2025-09-08 01:28:34.704660"
+        "updated_at": "2025-09-08T06:41:36+00:00",
+        "synced_at": "2025-09-08 06:41:36.192601"
       },
       "clash-party-windows-1.8.7-d0908.469c309-ia32-portable.7z_117204989": {
         "name": "clash-party-windows-1.8.7-d0908.469c309-ia32-portable.7z",
@@ -20712,8 +20712,8 @@
       "clash-party-windows-1.8.7-d0908.469c309-ia32-portable.7z.sha256_64": {
         "name": "clash-party-windows-1.8.7-d0908.469c309-ia32-portable.7z.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:28:54+00:00",
-        "synced_at": "2025-09-08 01:28:54.918828"
+        "updated_at": "2025-09-08T06:41:53+00:00",
+        "synced_at": "2025-09-08 06:41:53.158166"
       },
       "clash-party-windows-1.8.7-d0908.469c309-ia32-setup.exe_135435931": {
         "name": "clash-party-windows-1.8.7-d0908.469c309-ia32-setup.exe",
@@ -20724,8 +20724,8 @@
       "clash-party-windows-1.8.7-d0908.469c309-ia32-setup.exe.sha256_64": {
         "name": "clash-party-windows-1.8.7-d0908.469c309-ia32-setup.exe.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:29:15+00:00",
-        "synced_at": "2025-09-08 01:29:15.982333"
+        "updated_at": "2025-09-08T06:42:10+00:00",
+        "synced_at": "2025-09-08 06:42:10.220202"
       },
       "clash-party-windows-1.8.7-d0908.469c309-x64-portable.7z_129500552": {
         "name": "clash-party-windows-1.8.7-d0908.469c309-x64-portable.7z",
@@ -20736,8 +20736,8 @@
       "clash-party-windows-1.8.7-d0908.469c309-x64-portable.7z.sha256_64": {
         "name": "clash-party-windows-1.8.7-d0908.469c309-x64-portable.7z.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:29:34+00:00",
-        "synced_at": "2025-09-08 01:29:34.177657"
+        "updated_at": "2025-09-08T06:42:27+00:00",
+        "synced_at": "2025-09-08 06:42:27.308041"
       },
       "clash-party-windows-1.8.7-d0908.469c309-x64-setup.exe_143061448": {
         "name": "clash-party-windows-1.8.7-d0908.469c309-x64-setup.exe",
@@ -20748,8 +20748,8 @@
       "clash-party-windows-1.8.7-d0908.469c309-x64-setup.exe.sha256_64": {
         "name": "clash-party-windows-1.8.7-d0908.469c309-x64-setup.exe.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:29:53+00:00",
-        "synced_at": "2025-09-08 01:29:53.652117"
+        "updated_at": "2025-09-08T06:42:44+00:00",
+        "synced_at": "2025-09-08 06:42:44.879974"
       },
       "latest.yml_1354": {
         "name": "latest.yml",
@@ -20766,8 +20766,8 @@
       "mihomo-party-catalina-1.8.7-d0908.469c309-arm64.pkg.sha256_64": {
         "name": "mihomo-party-catalina-1.8.7-d0908.469c309-arm64.pkg.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:30:21+00:00",
-        "synced_at": "2025-09-08 01:30:21.553130"
+        "updated_at": "2025-09-08T06:45:39+00:00",
+        "synced_at": "2025-09-08 06:45:39.950717"
       },
       "mihomo-party-catalina-1.8.7-d0908.469c309-x64.pkg_187760524": {
         "name": "mihomo-party-catalina-1.8.7-d0908.469c309-x64.pkg",
@@ -20778,8 +20778,8 @@
       "mihomo-party-catalina-1.8.7-d0908.469c309-x64.pkg.sha256_64": {
         "name": "mihomo-party-catalina-1.8.7-d0908.469c309-x64.pkg.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:30:44+00:00",
-        "synced_at": "2025-09-08 01:30:45.062162"
+        "updated_at": "2025-09-08T06:46:01+00:00",
+        "synced_at": "2025-09-08 06:46:01.682182"
       },
       "mihomo-party-linux-1.8.7-d0908.469c309-aarch64.rpm_114154433": {
         "name": "mihomo-party-linux-1.8.7-d0908.469c309-aarch64.rpm",
@@ -20790,8 +20790,8 @@
       "mihomo-party-linux-1.8.7-d0908.469c309-aarch64.rpm.sha256_64": {
         "name": "mihomo-party-linux-1.8.7-d0908.469c309-aarch64.rpm.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:31:05+00:00",
-        "synced_at": "2025-09-08 01:31:05.420530"
+        "updated_at": "2025-09-08T06:47:15+00:00",
+        "synced_at": "2025-09-08 06:47:15.199873"
       },
       "mihomo-party-linux-1.8.7-d0908.469c309-amd64.deb_128985736": {
         "name": "mihomo-party-linux-1.8.7-d0908.469c309-amd64.deb",
@@ -20802,8 +20802,8 @@
       "mihomo-party-linux-1.8.7-d0908.469c309-amd64.deb.sha256_64": {
         "name": "mihomo-party-linux-1.8.7-d0908.469c309-amd64.deb.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:31:25+00:00",
-        "synced_at": "2025-09-08 01:31:25.892948"
+        "updated_at": "2025-09-08T06:47:37+00:00",
+        "synced_at": "2025-09-08 06:47:37.461891"
       },
       "mihomo-party-linux-1.8.7-d0908.469c309-arm64.deb_118562434": {
         "name": "mihomo-party-linux-1.8.7-d0908.469c309-arm64.deb",
@@ -20814,8 +20814,8 @@
       "mihomo-party-linux-1.8.7-d0908.469c309-arm64.deb.sha256_64": {
         "name": "mihomo-party-linux-1.8.7-d0908.469c309-arm64.deb.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:31:45+00:00",
-        "synced_at": "2025-09-08 01:31:45.906045"
+        "updated_at": "2025-09-08T06:47:57+00:00",
+        "synced_at": "2025-09-08 06:47:58.075671"
       },
       "mihomo-party-linux-1.8.7-d0908.469c309-x86_64.rpm_126442449": {
         "name": "mihomo-party-linux-1.8.7-d0908.469c309-x86_64.rpm",
@@ -20826,8 +20826,8 @@
       "mihomo-party-linux-1.8.7-d0908.469c309-x86_64.rpm.sha256_64": {
         "name": "mihomo-party-linux-1.8.7-d0908.469c309-x86_64.rpm.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:32:06+00:00",
-        "synced_at": "2025-09-08 01:32:06.925646"
+        "updated_at": "2025-09-08T06:48:19+00:00",
+        "synced_at": "2025-09-08 06:48:19.565369"
       },
       "mihomo-party-macos-1.8.7-d0908.469c309-arm64.pkg_187737412": {
         "name": "mihomo-party-macos-1.8.7-d0908.469c309-arm64.pkg",
@@ -20838,8 +20838,8 @@
       "mihomo-party-macos-1.8.7-d0908.469c309-arm64.pkg.sha256_64": {
         "name": "mihomo-party-macos-1.8.7-d0908.469c309-arm64.pkg.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:32:30+00:00",
-        "synced_at": "2025-09-08 01:32:30.967844"
+        "updated_at": "2025-09-08T06:50:24+00:00",
+        "synced_at": "2025-09-08 06:50:24.216827"
       },
       "mihomo-party-macos-1.8.7-d0908.469c309-x64.pkg_199888439": {
         "name": "mihomo-party-macos-1.8.7-d0908.469c309-x64.pkg",
@@ -20850,8 +20850,8 @@
       "mihomo-party-macos-1.8.7-d0908.469c309-x64.pkg.sha256_64": {
         "name": "mihomo-party-macos-1.8.7-d0908.469c309-x64.pkg.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:32:53+00:00",
-        "synced_at": "2025-09-08 01:32:53.864447"
+        "updated_at": "2025-09-08T06:50:50+00:00",
+        "synced_at": "2025-09-08 06:50:50.148915"
       },
       "mihomo-party-win7-1.8.7-d0908.469c309-ia32-portable.7z_101814303": {
         "name": "mihomo-party-win7-1.8.7-d0908.469c309-ia32-portable.7z",
@@ -20862,8 +20862,8 @@
       "mihomo-party-win7-1.8.7-d0908.469c309-ia32-portable.7z.sha256_64": {
         "name": "mihomo-party-win7-1.8.7-d0908.469c309-ia32-portable.7z.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:33:14+00:00",
-        "synced_at": "2025-09-08 01:33:14.293980"
+        "updated_at": "2025-09-08T06:52:07+00:00",
+        "synced_at": "2025-09-08 06:52:07.698589"
       },
       "mihomo-party-win7-1.8.7-d0908.469c309-ia32-setup.exe_118745494": {
         "name": "mihomo-party-win7-1.8.7-d0908.469c309-ia32-setup.exe",
@@ -20874,8 +20874,8 @@
       "mihomo-party-win7-1.8.7-d0908.469c309-ia32-setup.exe.sha256_64": {
         "name": "mihomo-party-win7-1.8.7-d0908.469c309-ia32-setup.exe.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:33:33+00:00",
-        "synced_at": "2025-09-08 01:33:33.759798"
+        "updated_at": "2025-09-08T06:52:31+00:00",
+        "synced_at": "2025-09-08 06:52:31.902045"
       },
       "mihomo-party-win7-1.8.7-d0908.469c309-x64-portable.7z_106244501": {
         "name": "mihomo-party-win7-1.8.7-d0908.469c309-x64-portable.7z",
@@ -20886,8 +20886,8 @@
       "mihomo-party-win7-1.8.7-d0908.469c309-x64-portable.7z.sha256_64": {
         "name": "mihomo-party-win7-1.8.7-d0908.469c309-x64-portable.7z.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:33:53+00:00",
-        "synced_at": "2025-09-08 01:33:53.350079"
+        "updated_at": "2025-09-08T06:52:55+00:00",
+        "synced_at": "2025-09-08 06:52:55.576853"
       },
       "mihomo-party-win7-1.8.7-d0908.469c309-x64-setup.exe_124050224": {
         "name": "mihomo-party-win7-1.8.7-d0908.469c309-x64-setup.exe",
@@ -20898,8 +20898,8 @@
       "mihomo-party-win7-1.8.7-d0908.469c309-x64-setup.exe.sha256_64": {
         "name": "mihomo-party-win7-1.8.7-d0908.469c309-x64-setup.exe.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:34:14+00:00",
-        "synced_at": "2025-09-08 01:34:15.041344"
+        "updated_at": "2025-09-08T06:53:19+00:00",
+        "synced_at": "2025-09-08 06:53:19.829030"
       },
       "mihomo-party-windows-1.8.7-d0908.469c309-arm64-portable.7z_125179408": {
         "name": "mihomo-party-windows-1.8.7-d0908.469c309-arm64-portable.7z",
@@ -20910,8 +20910,8 @@
       "mihomo-party-windows-1.8.7-d0908.469c309-arm64-portable.7z.sha256_64": {
         "name": "mihomo-party-windows-1.8.7-d0908.469c309-arm64-portable.7z.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:34:35+00:00",
-        "synced_at": "2025-09-08 01:34:35.333379"
+        "updated_at": "2025-09-08T06:55:28+00:00",
+        "synced_at": "2025-09-08 06:55:28.520160"
       },
       "mihomo-party-windows-1.8.7-d0908.469c309-arm64-setup.exe_141586337": {
         "name": "mihomo-party-windows-1.8.7-d0908.469c309-arm64-setup.exe",
@@ -20922,8 +20922,8 @@
       "mihomo-party-windows-1.8.7-d0908.469c309-arm64-setup.exe.sha256_64": {
         "name": "mihomo-party-windows-1.8.7-d0908.469c309-arm64-setup.exe.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:34:55+00:00",
-        "synced_at": "2025-09-08 01:34:55.661664"
+        "updated_at": "2025-09-08T06:55:56+00:00",
+        "synced_at": "2025-09-08 06:55:56.205059"
       },
       "mihomo-party-windows-1.8.7-d0908.469c309-ia32-portable.7z_117204989": {
         "name": "mihomo-party-windows-1.8.7-d0908.469c309-ia32-portable.7z",
@@ -20934,8 +20934,8 @@
       "mihomo-party-windows-1.8.7-d0908.469c309-ia32-portable.7z.sha256_64": {
         "name": "mihomo-party-windows-1.8.7-d0908.469c309-ia32-portable.7z.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:35:15+00:00",
-        "synced_at": "2025-09-08 01:35:15.905816"
+        "updated_at": "2025-09-08T06:56:23+00:00",
+        "synced_at": "2025-09-08 06:56:23.602064"
       },
       "mihomo-party-windows-1.8.7-d0908.469c309-ia32-setup.exe_135435931": {
         "name": "mihomo-party-windows-1.8.7-d0908.469c309-ia32-setup.exe",
@@ -20946,8 +20946,8 @@
       "mihomo-party-windows-1.8.7-d0908.469c309-ia32-setup.exe.sha256_64": {
         "name": "mihomo-party-windows-1.8.7-d0908.469c309-ia32-setup.exe.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:35:36+00:00",
-        "synced_at": "2025-09-08 01:35:36.539652"
+        "updated_at": "2025-09-08T06:56:51+00:00",
+        "synced_at": "2025-09-08 06:56:51.701075"
       },
       "mihomo-party-windows-1.8.7-d0908.469c309-x64-portable.7z_129500552": {
         "name": "mihomo-party-windows-1.8.7-d0908.469c309-x64-portable.7z",
@@ -20958,8 +20958,8 @@
       "mihomo-party-windows-1.8.7-d0908.469c309-x64-portable.7z.sha256_64": {
         "name": "mihomo-party-windows-1.8.7-d0908.469c309-x64-portable.7z.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:35:57+00:00",
-        "synced_at": "2025-09-08 01:35:57.692698"
+        "updated_at": "2025-09-08T06:57:20+00:00",
+        "synced_at": "2025-09-08 06:57:20.953559"
       },
       "mihomo-party-windows-1.8.7-d0908.469c309-x64-setup.exe_143061448": {
         "name": "mihomo-party-windows-1.8.7-d0908.469c309-x64-setup.exe",
@@ -20970,8 +20970,662 @@
       "mihomo-party-windows-1.8.7-d0908.469c309-x64-setup.exe.sha256_64": {
         "name": "mihomo-party-windows-1.8.7-d0908.469c309-x64-setup.exe.sha256",
         "size": 64,
-        "updated_at": "2025-09-08T01:36:19+00:00",
-        "synced_at": "2025-09-08 01:36:20.099902"
+        "updated_at": "2025-09-08T06:57:49+00:00",
+        "synced_at": "2025-09-08 06:57:49.712029"
+      },
+      "clash-party-catalina-1.8.7-d0908.469c309-arm64.pkg_176447824": {
+        "name": "clash-party-catalina-1.8.7-d0908.469c309-arm64.pkg",
+        "size": 176447824,
+        "updated_at": "2025-09-08T06:33:28+00:00",
+        "synced_at": "2025-09-08 06:33:28.962674"
+      },
+      "clash-party-catalina-1.8.7-d0908.469c309-x64.pkg_187762626": {
+        "name": "clash-party-catalina-1.8.7-d0908.469c309-x64.pkg",
+        "size": 187762626,
+        "updated_at": "2025-09-08T06:33:41+00:00",
+        "synced_at": "2025-09-08 06:33:41.977311"
+      },
+      "clash-party-catalina-1.8.7-d0908.943341d-arm64.pkg_176447459": {
+        "name": "clash-party-catalina-1.8.7-d0908.943341d-arm64.pkg",
+        "size": 176447459,
+        "updated_at": "2025-09-08T06:34:00+00:00",
+        "synced_at": "2025-09-08 06:34:01.083333"
+      },
+      "clash-party-catalina-1.8.7-d0908.943341d-arm64.pkg.sha256_64": {
+        "name": "clash-party-catalina-1.8.7-d0908.943341d-arm64.pkg.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:34:10+00:00",
+        "synced_at": "2025-09-08 06:34:10.292683"
+      },
+      "clash-party-catalina-1.8.7-d0908.943341d-x64.pkg_187759945": {
+        "name": "clash-party-catalina-1.8.7-d0908.943341d-x64.pkg",
+        "size": 187759945,
+        "updated_at": "2025-09-08T06:34:28+00:00",
+        "synced_at": "2025-09-08 06:34:28.366178"
+      },
+      "clash-party-catalina-1.8.7-d0908.943341d-x64.pkg.sha256_64": {
+        "name": "clash-party-catalina-1.8.7-d0908.943341d-x64.pkg.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:34:37+00:00",
+        "synced_at": "2025-09-08 06:34:37.199343"
+      },
+      "clash-party-linux-1.8.7-d0908.469c309-aarch64.rpm_114167017": {
+        "name": "clash-party-linux-1.8.7-d0908.469c309-aarch64.rpm",
+        "size": 114167017,
+        "updated_at": "2025-09-08T06:34:45+00:00",
+        "synced_at": "2025-09-08 06:34:46.026341"
+      },
+      "clash-party-linux-1.8.7-d0908.469c309-amd64.deb_129022650": {
+        "name": "clash-party-linux-1.8.7-d0908.469c309-amd64.deb",
+        "size": 129022650,
+        "updated_at": "2025-09-08T06:34:59+00:00",
+        "synced_at": "2025-09-08 06:34:59.879223"
+      },
+      "clash-party-linux-1.8.7-d0908.469c309-arm64.deb_118583792": {
+        "name": "clash-party-linux-1.8.7-d0908.469c309-arm64.deb",
+        "size": 118583792,
+        "updated_at": "2025-09-08T06:35:12+00:00",
+        "synced_at": "2025-09-08 06:35:12.661812"
+      },
+      "clash-party-linux-1.8.7-d0908.469c309-x86_64.rpm_126429493": {
+        "name": "clash-party-linux-1.8.7-d0908.469c309-x86_64.rpm",
+        "size": 126429493,
+        "updated_at": "2025-09-08T06:35:25+00:00",
+        "synced_at": "2025-09-08 06:35:25.334451"
+      },
+      "clash-party-linux-1.8.7-d0908.943341d-aarch64.rpm_114152129": {
+        "name": "clash-party-linux-1.8.7-d0908.943341d-aarch64.rpm",
+        "size": 114152129,
+        "updated_at": "2025-09-08T06:35:44+00:00",
+        "synced_at": "2025-09-08 06:35:44.298656"
+      },
+      "clash-party-linux-1.8.7-d0908.943341d-aarch64.rpm.sha256_64": {
+        "name": "clash-party-linux-1.8.7-d0908.943341d-aarch64.rpm.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:35:53+00:00",
+        "synced_at": "2025-09-08 06:35:53.166045"
+      },
+      "clash-party-linux-1.8.7-d0908.943341d-amd64.deb_129070530": {
+        "name": "clash-party-linux-1.8.7-d0908.943341d-amd64.deb",
+        "size": 129070530,
+        "updated_at": "2025-09-08T06:36:08+00:00",
+        "synced_at": "2025-09-08 06:36:08.342866"
+      },
+      "clash-party-linux-1.8.7-d0908.943341d-amd64.deb.sha256_64": {
+        "name": "clash-party-linux-1.8.7-d0908.943341d-amd64.deb.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:36:17+00:00",
+        "synced_at": "2025-09-08 06:36:17.463137"
+      },
+      "clash-party-linux-1.8.7-d0908.943341d-arm64.deb_118658038": {
+        "name": "clash-party-linux-1.8.7-d0908.943341d-arm64.deb",
+        "size": 118658038,
+        "updated_at": "2025-09-08T06:36:32+00:00",
+        "synced_at": "2025-09-08 06:36:32.855564"
+      },
+      "clash-party-linux-1.8.7-d0908.943341d-arm64.deb.sha256_64": {
+        "name": "clash-party-linux-1.8.7-d0908.943341d-arm64.deb.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:36:41+00:00",
+        "synced_at": "2025-09-08 06:36:41.675762"
+      },
+      "clash-party-linux-1.8.7-d0908.943341d-x86_64.rpm_126445969": {
+        "name": "clash-party-linux-1.8.7-d0908.943341d-x86_64.rpm",
+        "size": 126445969,
+        "updated_at": "2025-09-08T06:36:56+00:00",
+        "synced_at": "2025-09-08 06:36:56.441229"
+      },
+      "clash-party-linux-1.8.7-d0908.943341d-x86_64.rpm.sha256_64": {
+        "name": "clash-party-linux-1.8.7-d0908.943341d-x86_64.rpm.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:37:05+00:00",
+        "synced_at": "2025-09-08 06:37:05.367706"
+      },
+      "clash-party-macos-1.8.7-d0908.469c309-arm64.pkg_187738920": {
+        "name": "clash-party-macos-1.8.7-d0908.469c309-arm64.pkg",
+        "size": 187738920,
+        "updated_at": "2025-09-08T06:37:18+00:00",
+        "synced_at": "2025-09-08 06:37:18.566681"
+      },
+      "clash-party-macos-1.8.7-d0908.469c309-x64.pkg_199888326": {
+        "name": "clash-party-macos-1.8.7-d0908.469c309-x64.pkg",
+        "size": 199888326,
+        "updated_at": "2025-09-08T06:37:34+00:00",
+        "synced_at": "2025-09-08 06:37:34.864833"
+      },
+      "clash-party-macos-1.8.7-d0908.943341d-arm64.pkg_187737827": {
+        "name": "clash-party-macos-1.8.7-d0908.943341d-arm64.pkg",
+        "size": 187737827,
+        "updated_at": "2025-09-08T06:37:53+00:00",
+        "synced_at": "2025-09-08 06:37:54.000771"
+      },
+      "clash-party-macos-1.8.7-d0908.943341d-arm64.pkg.sha256_64": {
+        "name": "clash-party-macos-1.8.7-d0908.943341d-arm64.pkg.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:38:02+00:00",
+        "synced_at": "2025-09-08 06:38:03.125442"
+      },
+      "clash-party-macos-1.8.7-d0908.943341d-x64.pkg_199887135": {
+        "name": "clash-party-macos-1.8.7-d0908.943341d-x64.pkg",
+        "size": 199887135,
+        "updated_at": "2025-09-08T06:38:21+00:00",
+        "synced_at": "2025-09-08 06:38:21.781117"
+      },
+      "clash-party-macos-1.8.7-d0908.943341d-x64.pkg.sha256_64": {
+        "name": "clash-party-macos-1.8.7-d0908.943341d-x64.pkg.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:38:30+00:00",
+        "synced_at": "2025-09-08 06:38:30.476034"
+      },
+      "clash-party-win7-1.8.7-d0908.469c309-ia32-portable.7z_101823094": {
+        "name": "clash-party-win7-1.8.7-d0908.469c309-ia32-portable.7z",
+        "size": 101823094,
+        "updated_at": "2025-09-08T06:38:39+00:00",
+        "synced_at": "2025-09-08 06:38:39.695397"
+      },
+      "clash-party-win7-1.8.7-d0908.469c309-ia32-setup.exe_118749851": {
+        "name": "clash-party-win7-1.8.7-d0908.469c309-ia32-setup.exe",
+        "size": 118749851,
+        "updated_at": "2025-09-08T06:38:54+00:00",
+        "synced_at": "2025-09-08 06:38:54.998082"
+      },
+      "clash-party-win7-1.8.7-d0908.469c309-x64-portable.7z_106248470": {
+        "name": "clash-party-win7-1.8.7-d0908.469c309-x64-portable.7z",
+        "size": 106248470,
+        "updated_at": "2025-09-08T06:39:08+00:00",
+        "synced_at": "2025-09-08 06:39:08.910240"
+      },
+      "clash-party-win7-1.8.7-d0908.469c309-x64-setup.exe_124052720": {
+        "name": "clash-party-win7-1.8.7-d0908.469c309-x64-setup.exe",
+        "size": 124052720,
+        "updated_at": "2025-09-08T06:39:24+00:00",
+        "synced_at": "2025-09-08 06:39:24.360126"
+      },
+      "clash-party-win7-1.8.7-d0908.943341d-ia32-portable.7z_101819332": {
+        "name": "clash-party-win7-1.8.7-d0908.943341d-ia32-portable.7z",
+        "size": 101819332,
+        "updated_at": "2025-09-08T06:39:42+00:00",
+        "synced_at": "2025-09-08 06:39:42.956501"
+      },
+      "clash-party-win7-1.8.7-d0908.943341d-ia32-portable.7z.sha256_64": {
+        "name": "clash-party-win7-1.8.7-d0908.943341d-ia32-portable.7z.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:39:52+00:00",
+        "synced_at": "2025-09-08 06:39:52.129057"
+      },
+      "clash-party-win7-1.8.7-d0908.943341d-ia32-setup.exe_118749639": {
+        "name": "clash-party-win7-1.8.7-d0908.943341d-ia32-setup.exe",
+        "size": 118749639,
+        "updated_at": "2025-09-08T06:40:07+00:00",
+        "synced_at": "2025-09-08 06:40:07.306128"
+      },
+      "clash-party-win7-1.8.7-d0908.943341d-ia32-setup.exe.sha256_64": {
+        "name": "clash-party-win7-1.8.7-d0908.943341d-ia32-setup.exe.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:40:16+00:00",
+        "synced_at": "2025-09-08 06:40:16.312817"
+      },
+      "clash-party-win7-1.8.7-d0908.943341d-x64-portable.7z_106251423": {
+        "name": "clash-party-win7-1.8.7-d0908.943341d-x64-portable.7z",
+        "size": 106251423,
+        "updated_at": "2025-09-08T06:40:30+00:00",
+        "synced_at": "2025-09-08 06:40:31.154796"
+      },
+      "clash-party-win7-1.8.7-d0908.943341d-x64-portable.7z.sha256_64": {
+        "name": "clash-party-win7-1.8.7-d0908.943341d-x64-portable.7z.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:40:39+00:00",
+        "synced_at": "2025-09-08 06:40:39.926894"
+      },
+      "clash-party-win7-1.8.7-d0908.943341d-x64-setup.exe_124054355": {
+        "name": "clash-party-win7-1.8.7-d0908.943341d-x64-setup.exe",
+        "size": 124054355,
+        "updated_at": "2025-09-08T06:40:52+00:00",
+        "synced_at": "2025-09-08 06:40:53.115505"
+      },
+      "clash-party-win7-1.8.7-d0908.943341d-x64-setup.exe.sha256_64": {
+        "name": "clash-party-win7-1.8.7-d0908.943341d-x64-setup.exe.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:41:01+00:00",
+        "synced_at": "2025-09-08 06:41:02.116123"
+      },
+      "clash-party-windows-1.8.7-d0908.469c309-arm64-portable.7z_125180928": {
+        "name": "clash-party-windows-1.8.7-d0908.469c309-arm64-portable.7z",
+        "size": 125180928,
+        "updated_at": "2025-09-08T06:41:12+00:00",
+        "synced_at": "2025-09-08 06:41:12.940372"
+      },
+      "clash-party-windows-1.8.7-d0908.469c309-arm64-setup.exe_141587478": {
+        "name": "clash-party-windows-1.8.7-d0908.469c309-arm64-setup.exe",
+        "size": 141587478,
+        "updated_at": "2025-09-08T06:41:30+00:00",
+        "synced_at": "2025-09-08 06:41:30.776634"
+      },
+      "clash-party-windows-1.8.7-d0908.469c309-ia32-portable.7z_117215132": {
+        "name": "clash-party-windows-1.8.7-d0908.469c309-ia32-portable.7z",
+        "size": 117215132,
+        "updated_at": "2025-09-08T06:41:47+00:00",
+        "synced_at": "2025-09-08 06:41:47.755711"
+      },
+      "clash-party-windows-1.8.7-d0908.469c309-ia32-setup.exe_135440287": {
+        "name": "clash-party-windows-1.8.7-d0908.469c309-ia32-setup.exe",
+        "size": 135440287,
+        "updated_at": "2025-09-08T06:42:04+00:00",
+        "synced_at": "2025-09-08 06:42:04.686062"
+      },
+      "clash-party-windows-1.8.7-d0908.469c309-x64-portable.7z_129496981": {
+        "name": "clash-party-windows-1.8.7-d0908.469c309-x64-portable.7z",
+        "size": 129496981,
+        "updated_at": "2025-09-08T06:42:21+00:00",
+        "synced_at": "2025-09-08 06:42:21.729933"
+      },
+      "clash-party-windows-1.8.7-d0908.469c309-x64-setup.exe_143063943": {
+        "name": "clash-party-windows-1.8.7-d0908.469c309-x64-setup.exe",
+        "size": 143063943,
+        "updated_at": "2025-09-08T06:42:38+00:00",
+        "synced_at": "2025-09-08 06:42:38.323709"
+      },
+      "clash-party-windows-1.8.7-d0908.943341d-arm64-portable.7z_125180344": {
+        "name": "clash-party-windows-1.8.7-d0908.943341d-arm64-portable.7z",
+        "size": 125180344,
+        "updated_at": "2025-09-08T06:42:59+00:00",
+        "synced_at": "2025-09-08 06:42:59.265296"
+      },
+      "clash-party-windows-1.8.7-d0908.943341d-arm64-portable.7z.sha256_64": {
+        "name": "clash-party-windows-1.8.7-d0908.943341d-arm64-portable.7z.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:43:08+00:00",
+        "synced_at": "2025-09-08 06:43:08.330947"
+      },
+      "clash-party-windows-1.8.7-d0908.943341d-arm64-setup.exe_141587283": {
+        "name": "clash-party-windows-1.8.7-d0908.943341d-arm64-setup.exe",
+        "size": 141587283,
+        "updated_at": "2025-09-08T06:43:24+00:00",
+        "synced_at": "2025-09-08 06:43:24.222867"
+      },
+      "clash-party-windows-1.8.7-d0908.943341d-arm64-setup.exe.sha256_64": {
+        "name": "clash-party-windows-1.8.7-d0908.943341d-arm64-setup.exe.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:43:33+00:00",
+        "synced_at": "2025-09-08 06:43:33.368634"
+      },
+      "clash-party-windows-1.8.7-d0908.943341d-ia32-portable.7z_117207837": {
+        "name": "clash-party-windows-1.8.7-d0908.943341d-ia32-portable.7z",
+        "size": 117207837,
+        "updated_at": "2025-09-08T06:43:48+00:00",
+        "synced_at": "2025-09-08 06:43:48.684254"
+      },
+      "clash-party-windows-1.8.7-d0908.943341d-ia32-portable.7z.sha256_64": {
+        "name": "clash-party-windows-1.8.7-d0908.943341d-ia32-portable.7z.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:43:57+00:00",
+        "synced_at": "2025-09-08 06:43:57.869564"
+      },
+      "clash-party-windows-1.8.7-d0908.943341d-ia32-setup.exe_135440137": {
+        "name": "clash-party-windows-1.8.7-d0908.943341d-ia32-setup.exe",
+        "size": 135440137,
+        "updated_at": "2025-09-08T06:44:13+00:00",
+        "synced_at": "2025-09-08 06:44:14.041438"
+      },
+      "clash-party-windows-1.8.7-d0908.943341d-ia32-setup.exe.sha256_64": {
+        "name": "clash-party-windows-1.8.7-d0908.943341d-ia32-setup.exe.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:44:23+00:00",
+        "synced_at": "2025-09-08 06:44:23.612753"
+      },
+      "clash-party-windows-1.8.7-d0908.943341d-x64-portable.7z_129497141": {
+        "name": "clash-party-windows-1.8.7-d0908.943341d-x64-portable.7z",
+        "size": 129497141,
+        "updated_at": "2025-09-08T06:44:37+00:00",
+        "synced_at": "2025-09-08 06:44:38.133402"
+      },
+      "clash-party-windows-1.8.7-d0908.943341d-x64-portable.7z.sha256_64": {
+        "name": "clash-party-windows-1.8.7-d0908.943341d-x64-portable.7z.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:44:47+00:00",
+        "synced_at": "2025-09-08 06:44:47.360259"
+      },
+      "clash-party-windows-1.8.7-d0908.943341d-x64-setup.exe_143065855": {
+        "name": "clash-party-windows-1.8.7-d0908.943341d-x64-setup.exe",
+        "size": 143065855,
+        "updated_at": "2025-09-08T06:45:02+00:00",
+        "synced_at": "2025-09-08 06:45:02.389613"
+      },
+      "clash-party-windows-1.8.7-d0908.943341d-x64-setup.exe.sha256_64": {
+        "name": "clash-party-windows-1.8.7-d0908.943341d-x64-setup.exe.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:45:11+00:00",
+        "synced_at": "2025-09-08 06:45:11.909043"
+      },
+      "latest.yml_1417": {
+        "name": "latest.yml",
+        "size": 1417,
+        "updated_at": "2025-09-08T06:45:17+00:00",
+        "synced_at": "2025-09-08 06:45:17.834627"
+      },
+      "mihomo-party-catalina-1.8.7-d0908.469c309-arm64.pkg_176447824": {
+        "name": "mihomo-party-catalina-1.8.7-d0908.469c309-arm64.pkg",
+        "size": 176447824,
+        "updated_at": "2025-09-08T06:45:33+00:00",
+        "synced_at": "2025-09-08 06:45:33.571581"
+      },
+      "mihomo-party-catalina-1.8.7-d0908.469c309-x64.pkg_187762626": {
+        "name": "mihomo-party-catalina-1.8.7-d0908.469c309-x64.pkg",
+        "size": 187762626,
+        "updated_at": "2025-09-08T06:45:55+00:00",
+        "synced_at": "2025-09-08 06:45:55.195899"
+      },
+      "mihomo-party-catalina-1.8.7-d0908.943341d-arm64.pkg_176447459": {
+        "name": "mihomo-party-catalina-1.8.7-d0908.943341d-arm64.pkg",
+        "size": 176447459,
+        "updated_at": "2025-09-08T06:46:18+00:00",
+        "synced_at": "2025-09-08 06:46:18.764729"
+      },
+      "mihomo-party-catalina-1.8.7-d0908.943341d-arm64.pkg.sha256_64": {
+        "name": "mihomo-party-catalina-1.8.7-d0908.943341d-arm64.pkg.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:46:27+00:00",
+        "synced_at": "2025-09-08 06:46:27.862515"
+      },
+      "mihomo-party-catalina-1.8.7-d0908.943341d-x64.pkg_187759945": {
+        "name": "mihomo-party-catalina-1.8.7-d0908.943341d-x64.pkg",
+        "size": 187759945,
+        "updated_at": "2025-09-08T06:46:45+00:00",
+        "synced_at": "2025-09-08 06:46:46.025840"
+      },
+      "mihomo-party-catalina-1.8.7-d0908.943341d-x64.pkg.sha256_64": {
+        "name": "mihomo-party-catalina-1.8.7-d0908.943341d-x64.pkg.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:46:55+00:00",
+        "synced_at": "2025-09-08 06:46:55.485402"
+      },
+      "mihomo-party-linux-1.8.7-d0908.469c309-aarch64.rpm_114167017": {
+        "name": "mihomo-party-linux-1.8.7-d0908.469c309-aarch64.rpm",
+        "size": 114167017,
+        "updated_at": "2025-09-08T06:47:07+00:00",
+        "synced_at": "2025-09-08 06:47:07.308717"
+      },
+      "mihomo-party-linux-1.8.7-d0908.469c309-amd64.deb_129022650": {
+        "name": "mihomo-party-linux-1.8.7-d0908.469c309-amd64.deb",
+        "size": 129022650,
+        "updated_at": "2025-09-08T06:47:28+00:00",
+        "synced_at": "2025-09-08 06:47:28.924819"
+      },
+      "mihomo-party-linux-1.8.7-d0908.469c309-arm64.deb_118583792": {
+        "name": "mihomo-party-linux-1.8.7-d0908.469c309-arm64.deb",
+        "size": 118583792,
+        "updated_at": "2025-09-08T06:47:50+00:00",
+        "synced_at": "2025-09-08 06:47:50.326757"
+      },
+      "mihomo-party-linux-1.8.7-d0908.469c309-x86_64.rpm_126429493": {
+        "name": "mihomo-party-linux-1.8.7-d0908.469c309-x86_64.rpm",
+        "size": 126429493,
+        "updated_at": "2025-09-08T06:48:11+00:00",
+        "synced_at": "2025-09-08 06:48:11.951951"
+      },
+      "mihomo-party-linux-1.8.7-d0908.943341d-aarch64.rpm_114152129": {
+        "name": "mihomo-party-linux-1.8.7-d0908.943341d-aarch64.rpm",
+        "size": 114152129,
+        "updated_at": "2025-09-08T06:48:34+00:00",
+        "synced_at": "2025-09-08 06:48:34.783380"
+      },
+      "mihomo-party-linux-1.8.7-d0908.943341d-aarch64.rpm.sha256_64": {
+        "name": "mihomo-party-linux-1.8.7-d0908.943341d-aarch64.rpm.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:48:44+00:00",
+        "synced_at": "2025-09-08 06:48:44.198546"
+      },
+      "mihomo-party-linux-1.8.7-d0908.943341d-amd64.deb_129070530": {
+        "name": "mihomo-party-linux-1.8.7-d0908.943341d-amd64.deb",
+        "size": 129070530,
+        "updated_at": "2025-09-08T06:49:00+00:00",
+        "synced_at": "2025-09-08 06:49:00.619316"
+      },
+      "mihomo-party-linux-1.8.7-d0908.943341d-amd64.deb.sha256_64": {
+        "name": "mihomo-party-linux-1.8.7-d0908.943341d-amd64.deb.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:49:09+00:00",
+        "synced_at": "2025-09-08 06:49:10.016560"
+      },
+      "mihomo-party-linux-1.8.7-d0908.943341d-arm64.deb_118658038": {
+        "name": "mihomo-party-linux-1.8.7-d0908.943341d-arm64.deb",
+        "size": 118658038,
+        "updated_at": "2025-09-08T06:49:23+00:00",
+        "synced_at": "2025-09-08 06:49:24.094512"
+      },
+      "mihomo-party-linux-1.8.7-d0908.943341d-arm64.deb.sha256_64": {
+        "name": "mihomo-party-linux-1.8.7-d0908.943341d-arm64.deb.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:49:33+00:00",
+        "synced_at": "2025-09-08 06:49:33.588086"
+      },
+      "mihomo-party-linux-1.8.7-d0908.943341d-x86_64.rpm_126445969": {
+        "name": "mihomo-party-linux-1.8.7-d0908.943341d-x86_64.rpm",
+        "size": 126445969,
+        "updated_at": "2025-09-08T06:49:48+00:00",
+        "synced_at": "2025-09-08 06:49:48.425536"
+      },
+      "mihomo-party-linux-1.8.7-d0908.943341d-x86_64.rpm.sha256_64": {
+        "name": "mihomo-party-linux-1.8.7-d0908.943341d-x86_64.rpm.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:49:57+00:00",
+        "synced_at": "2025-09-08 06:49:57.918171"
+      },
+      "mihomo-party-macos-1.8.7-d0908.469c309-arm64.pkg_187738920": {
+        "name": "mihomo-party-macos-1.8.7-d0908.469c309-arm64.pkg",
+        "size": 187738920,
+        "updated_at": "2025-09-08T06:50:15+00:00",
+        "synced_at": "2025-09-08 06:50:15.960961"
+      },
+      "mihomo-party-macos-1.8.7-d0908.469c309-x64.pkg_199888326": {
+        "name": "mihomo-party-macos-1.8.7-d0908.469c309-x64.pkg",
+        "size": 199888326,
+        "updated_at": "2025-09-08T06:50:41+00:00",
+        "synced_at": "2025-09-08 06:50:42.178634"
+      },
+      "mihomo-party-macos-1.8.7-d0908.943341d-arm64.pkg_187737827": {
+        "name": "mihomo-party-macos-1.8.7-d0908.943341d-arm64.pkg",
+        "size": 187737827,
+        "updated_at": "2025-09-08T06:51:07+00:00",
+        "synced_at": "2025-09-08 06:51:07.518547"
+      },
+      "mihomo-party-macos-1.8.7-d0908.943341d-arm64.pkg.sha256_64": {
+        "name": "mihomo-party-macos-1.8.7-d0908.943341d-arm64.pkg.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:51:17+00:00",
+        "synced_at": "2025-09-08 06:51:17.154947"
+      },
+      "mihomo-party-macos-1.8.7-d0908.943341d-x64.pkg_199887135": {
+        "name": "mihomo-party-macos-1.8.7-d0908.943341d-x64.pkg",
+        "size": 199887135,
+        "updated_at": "2025-09-08T06:51:34+00:00",
+        "synced_at": "2025-09-08 06:51:34.793929"
+      },
+      "mihomo-party-macos-1.8.7-d0908.943341d-x64.pkg.sha256_64": {
+        "name": "mihomo-party-macos-1.8.7-d0908.943341d-x64.pkg.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:51:44+00:00",
+        "synced_at": "2025-09-08 06:51:44.299996"
+      },
+      "mihomo-party-win7-1.8.7-d0908.469c309-ia32-portable.7z_101823094": {
+        "name": "mihomo-party-win7-1.8.7-d0908.469c309-ia32-portable.7z",
+        "size": 101823094,
+        "updated_at": "2025-09-08T06:51:58+00:00",
+        "synced_at": "2025-09-08 06:51:58.283747"
+      },
+      "mihomo-party-win7-1.8.7-d0908.469c309-ia32-setup.exe_118749851": {
+        "name": "mihomo-party-win7-1.8.7-d0908.469c309-ia32-setup.exe",
+        "size": 118749851,
+        "updated_at": "2025-09-08T06:52:22+00:00",
+        "synced_at": "2025-09-08 06:52:22.752630"
+      },
+      "mihomo-party-win7-1.8.7-d0908.469c309-x64-portable.7z_106248470": {
+        "name": "mihomo-party-win7-1.8.7-d0908.469c309-x64-portable.7z",
+        "size": 106248470,
+        "updated_at": "2025-09-08T06:52:46+00:00",
+        "synced_at": "2025-09-08 06:52:46.218331"
+      },
+      "mihomo-party-win7-1.8.7-d0908.469c309-x64-setup.exe_124052720": {
+        "name": "mihomo-party-win7-1.8.7-d0908.469c309-x64-setup.exe",
+        "size": 124052720,
+        "updated_at": "2025-09-08T06:53:10+00:00",
+        "synced_at": "2025-09-08 06:53:10.492675"
+      },
+      "mihomo-party-win7-1.8.7-d0908.943341d-ia32-portable.7z_101819332": {
+        "name": "mihomo-party-win7-1.8.7-d0908.943341d-ia32-portable.7z",
+        "size": 101819332,
+        "updated_at": "2025-09-08T06:53:34+00:00",
+        "synced_at": "2025-09-08 06:53:34.702265"
+      },
+      "mihomo-party-win7-1.8.7-d0908.943341d-ia32-portable.7z.sha256_64": {
+        "name": "mihomo-party-win7-1.8.7-d0908.943341d-ia32-portable.7z.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:53:44+00:00",
+        "synced_at": "2025-09-08 06:53:44.193976"
+      },
+      "mihomo-party-win7-1.8.7-d0908.943341d-ia32-setup.exe_118749639": {
+        "name": "mihomo-party-win7-1.8.7-d0908.943341d-ia32-setup.exe",
+        "size": 118749639,
+        "updated_at": "2025-09-08T06:53:59+00:00",
+        "synced_at": "2025-09-08 06:53:59.648160"
+      },
+      "mihomo-party-win7-1.8.7-d0908.943341d-ia32-setup.exe.sha256_64": {
+        "name": "mihomo-party-win7-1.8.7-d0908.943341d-ia32-setup.exe.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:54:08+00:00",
+        "synced_at": "2025-09-08 06:54:09.054975"
+      },
+      "mihomo-party-win7-1.8.7-d0908.943341d-x64-portable.7z_106251423": {
+        "name": "mihomo-party-win7-1.8.7-d0908.943341d-x64-portable.7z",
+        "size": 106251423,
+        "updated_at": "2025-09-08T06:54:24+00:00",
+        "synced_at": "2025-09-08 06:54:25.021124"
+      },
+      "mihomo-party-win7-1.8.7-d0908.943341d-x64-portable.7z.sha256_64": {
+        "name": "mihomo-party-win7-1.8.7-d0908.943341d-x64-portable.7z.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:54:35+00:00",
+        "synced_at": "2025-09-08 06:54:35.359434"
+      },
+      "mihomo-party-win7-1.8.7-d0908.943341d-x64-setup.exe_124054355": {
+        "name": "mihomo-party-win7-1.8.7-d0908.943341d-x64-setup.exe",
+        "size": 124054355,
+        "updated_at": "2025-09-08T06:54:50+00:00",
+        "synced_at": "2025-09-08 06:54:50.807817"
+      },
+      "mihomo-party-win7-1.8.7-d0908.943341d-x64-setup.exe.sha256_64": {
+        "name": "mihomo-party-win7-1.8.7-d0908.943341d-x64-setup.exe.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:55:00+00:00",
+        "synced_at": "2025-09-08 06:55:00.591546"
+      },
+      "mihomo-party-windows-1.8.7-d0908.469c309-arm64-portable.7z_125180928": {
+        "name": "mihomo-party-windows-1.8.7-d0908.469c309-arm64-portable.7z",
+        "size": 125180928,
+        "updated_at": "2025-09-08T06:55:17+00:00",
+        "synced_at": "2025-09-08 06:55:17.806392"
+      },
+      "mihomo-party-windows-1.8.7-d0908.469c309-arm64-setup.exe_141587478": {
+        "name": "mihomo-party-windows-1.8.7-d0908.469c309-arm64-setup.exe",
+        "size": 141587478,
+        "updated_at": "2025-09-08T06:55:45+00:00",
+        "synced_at": "2025-09-08 06:55:45.208774"
+      },
+      "mihomo-party-windows-1.8.7-d0908.469c309-ia32-portable.7z_117215132": {
+        "name": "mihomo-party-windows-1.8.7-d0908.469c309-ia32-portable.7z",
+        "size": 117215132,
+        "updated_at": "2025-09-08T06:56:12+00:00",
+        "synced_at": "2025-09-08 06:56:12.317985"
+      },
+      "mihomo-party-windows-1.8.7-d0908.469c309-ia32-setup.exe_135440287": {
+        "name": "mihomo-party-windows-1.8.7-d0908.469c309-ia32-setup.exe",
+        "size": 135440287,
+        "updated_at": "2025-09-08T06:56:40+00:00",
+        "synced_at": "2025-09-08 06:56:41.090714"
+      },
+      "mihomo-party-windows-1.8.7-d0908.469c309-x64-portable.7z_129496981": {
+        "name": "mihomo-party-windows-1.8.7-d0908.469c309-x64-portable.7z",
+        "size": 129496981,
+        "updated_at": "2025-09-08T06:57:09+00:00",
+        "synced_at": "2025-09-08 06:57:09.493084"
+      },
+      "mihomo-party-windows-1.8.7-d0908.469c309-x64-setup.exe_143063943": {
+        "name": "mihomo-party-windows-1.8.7-d0908.469c309-x64-setup.exe",
+        "size": 143063943,
+        "updated_at": "2025-09-08T06:57:38+00:00",
+        "synced_at": "2025-09-08 06:57:38.601788"
+      },
+      "mihomo-party-windows-1.8.7-d0908.943341d-arm64-portable.7z_125180344": {
+        "name": "mihomo-party-windows-1.8.7-d0908.943341d-arm64-portable.7z",
+        "size": 125180344,
+        "updated_at": "2025-09-08T06:58:05+00:00",
+        "synced_at": "2025-09-08 06:58:06.140367"
+      },
+      "mihomo-party-windows-1.8.7-d0908.943341d-arm64-portable.7z.sha256_64": {
+        "name": "mihomo-party-windows-1.8.7-d0908.943341d-arm64-portable.7z.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:58:15+00:00",
+        "synced_at": "2025-09-08 06:58:15.800766"
+      },
+      "mihomo-party-windows-1.8.7-d0908.943341d-arm64-setup.exe_141587283": {
+        "name": "mihomo-party-windows-1.8.7-d0908.943341d-arm64-setup.exe",
+        "size": 141587283,
+        "updated_at": "2025-09-08T06:58:31+00:00",
+        "synced_at": "2025-09-08 06:58:31.699520"
+      },
+      "mihomo-party-windows-1.8.7-d0908.943341d-arm64-setup.exe.sha256_64": {
+        "name": "mihomo-party-windows-1.8.7-d0908.943341d-arm64-setup.exe.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:58:41+00:00",
+        "synced_at": "2025-09-08 06:58:41.392017"
+      },
+      "mihomo-party-windows-1.8.7-d0908.943341d-ia32-portable.7z_117207837": {
+        "name": "mihomo-party-windows-1.8.7-d0908.943341d-ia32-portable.7z",
+        "size": 117207837,
+        "updated_at": "2025-09-08T06:58:56+00:00",
+        "synced_at": "2025-09-08 06:58:56.757438"
+      },
+      "mihomo-party-windows-1.8.7-d0908.943341d-ia32-portable.7z.sha256_64": {
+        "name": "mihomo-party-windows-1.8.7-d0908.943341d-ia32-portable.7z.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:59:06+00:00",
+        "synced_at": "2025-09-08 06:59:06.626549"
+      },
+      "mihomo-party-windows-1.8.7-d0908.943341d-ia32-setup.exe_135440137": {
+        "name": "mihomo-party-windows-1.8.7-d0908.943341d-ia32-setup.exe",
+        "size": 135440137,
+        "updated_at": "2025-09-08T06:59:23+00:00",
+        "synced_at": "2025-09-08 06:59:23.403415"
+      },
+      "mihomo-party-windows-1.8.7-d0908.943341d-ia32-setup.exe.sha256_64": {
+        "name": "mihomo-party-windows-1.8.7-d0908.943341d-ia32-setup.exe.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:59:33+00:00",
+        "synced_at": "2025-09-08 06:59:33.263877"
+      },
+      "mihomo-party-windows-1.8.7-d0908.943341d-x64-portable.7z_129497141": {
+        "name": "mihomo-party-windows-1.8.7-d0908.943341d-x64-portable.7z",
+        "size": 129497141,
+        "updated_at": "2025-09-08T06:59:49+00:00",
+        "synced_at": "2025-09-08 06:59:50.167305"
+      },
+      "mihomo-party-windows-1.8.7-d0908.943341d-x64-portable.7z.sha256_64": {
+        "name": "mihomo-party-windows-1.8.7-d0908.943341d-x64-portable.7z.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T06:59:59+00:00",
+        "synced_at": "2025-09-08 06:59:59.743612"
+      },
+      "mihomo-party-windows-1.8.7-d0908.943341d-x64-setup.exe_143065855": {
+        "name": "mihomo-party-windows-1.8.7-d0908.943341d-x64-setup.exe",
+        "size": 143065855,
+        "updated_at": "2025-09-08T07:00:14+00:00",
+        "synced_at": "2025-09-08 07:00:14.745316"
+      },
+      "mihomo-party-windows-1.8.7-d0908.943341d-x64-setup.exe.sha256_64": {
+        "name": "mihomo-party-windows-1.8.7-d0908.943341d-x64-setup.exe.sha256",
+        "size": 64,
+        "updated_at": "2025-09-08T07:00:24+00:00",
+        "synced_at": "2025-09-08 07:00:24.856343"
       }
     },
     "242777441": {
